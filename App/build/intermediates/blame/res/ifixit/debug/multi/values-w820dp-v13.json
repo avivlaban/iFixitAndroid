@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/values-w820dp/values-w820dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 57,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/values-w820dp/values-w820dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 57,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    }
+]

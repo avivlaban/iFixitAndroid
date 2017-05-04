@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Taken from @Lars from Stack Overflow - thanks!
+@link http://stackoverflow.com/questions/3769762/android-color-xml-resource-file
+-->
+<resources>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="menu_background">#FF555555</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFDDDDDD</color>
+    <color name="dark">#FF222222</color>
+    <color name="black">#FF333333</color>
+    <color name="red">#FFFF0000</color>
+    <color name="emphasis">#FF31B6E7</color>
+    <color name="emphasis_pressed">#ff1f7190</color>
+
+    <color name="invisible">#00000000</color>
+    <color name="disabled_grey_text">#FFEEEEEE</color>
+    <color name="disabled_grey_bg">#FF666666</color>
+
+    <color name="topic_guide_title_background">#DD222222</color>
+
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+
+    <color name="step_pager_previous_tab_color">#4433B5E5</color>
+    <color name="step_pager_selected_tab_color">#FF0099CC</color>
+    <color name="step_pager_selected_last_tab_color">#550099CC</color>
+    <color name="step_pager_next_tab_color">#10000000</color>
+
+    <!-- Step bullet colors -->
+    <color name="step_bullet_black">#FF000000</color>
+    <color name="step_bullet_red">#FFC1280B</color>
+    <color name="step_bullet_orange">#FFFF9024</color>
+    <color name="step_bullet_yellow">#FFF3E00E</color>
+    <color name="step_bullet_green">#FF16DC81</color>
+    <color name="step_bullet_blue">#FF2343E8</color>
+    <color name="step_bullet_light_blue">#FF15A1D6</color>
+    <color name="step_bullet_violet">#FFDC54B7</color>
+
+    <color name="text_light">#66000000</color>
+
+    <color name="subtle_gray">#FFF0F0F0</color>
+    <color name="image_border">#FFF3F3F3</color>
+    <color name="border">#FFCCCCCC</color>
+    <color name="gainsboro">#FFDCDCDC</color>
+
+    <color name="progress_button_background">#FFBBBBBB</color>
+    <color name="progress_button_progress_disabled">#FF777777</color>
+
+    <!-- Theme Colors -->
+    <color name="ifixit_blue">#FF336DA8</color>
+    <color name="dozuki_red">#FFDD4124</color>
+    <color name="dozuki_green">#FFAFC400</color>
+    <color name="dozuki_orange">#FFF25D07</color>
+    <color name="dozuki_white">#FFCCCCCC</color>
+    <color name="dozuki_grey">#F7777777</color>
+
+    <color name="holo_blue_dark">#FF0099cc</color>
+</resources>

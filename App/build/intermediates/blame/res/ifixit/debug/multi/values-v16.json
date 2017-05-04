@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 227
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 227
+                    }
+                }
+            }
+        ]
+    }
+]

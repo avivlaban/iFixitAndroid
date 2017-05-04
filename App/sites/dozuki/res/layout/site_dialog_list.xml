@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/site_list_title"
+        style="@style/DialogTitle"
+        android:text="@string/site_list_title"/>
+
+    <View
+        android:id="@+id/titleDivider"
+        style="@style/DialogTitleDivider"
+        android:background="@color/dozuki_red"/>
+
+    <com.actionbarsherlock.widget.SearchView
+        android:id="@+id/dozuki_search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:imeOptions="actionSearch"
+        android:focusable="false"
+        android:title="@string/site_list_search_title"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginBottom="8dp"
+        android:background="@color/gainsboro"/>
+
+    <ListView
+        android:id="@+id/siteListView"
+        style="?attr/doz__listViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:id="@+id/emptyView"
+        style="@style/ListText"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/empty_site_list"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:id="@+id/loading_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:indeterminate="true"
+            android:minHeight="@dimen/progress_bar_width_height"
+            android:minWidth="@dimen/progress_bar_width_height"/>
+    </FrameLayout>
+
+</LinearLayout>

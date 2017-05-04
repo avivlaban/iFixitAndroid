@@ -1,0 +1,51 @@
+-keep class com.dozuki.ifixit.App {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.dozuki.ifixit.ui.topic_view.TopicActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.IntentFilterActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.search.SearchSuggestionProvider { <init>(); }
+-keep class com.dozuki.ifixit.util.api.ApiContentProvider { <init>(); }
+-keep class com.dozuki.ifixit.ui.search.SearchActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.GuideViewActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.TeardownsActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.FeaturedGuidesActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.OfflineGuidesActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.CommentsActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.gallery.GalleryActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.NumberCheckActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.create.GuideIntroActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.create.GuideCreateActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.create.StepsActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.create.StepEditActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.auth.OpenIDActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.topic_view.TopicViewActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.FullImageViewActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.VideoViewActivity { <init>(); }
+-keep class com.dozuki.ifixit.ui.guide.view.EmbedViewActivity { <init>(); }
+-keep class com.dozuki.ifixit.model.auth.AuthenticatorService { <init>(); }
+-keep class com.dozuki.ifixit.util.api.ApiSyncService { <init>(); }
+-keep class sdk.insert.io.activities.InsertGateActivity { <init>(); }
+-keep class com.dozuki.ifixit.MyGcmListenerService { <init>(); }
+-keep class com.dozuki.ifixit.MyInstanceIdListenerService { <init>(); }
+-keep class com.dozuki.ifixit.RegistrationIntentService { <init>(); }
+-keep class com.google.android.gms.gcm.GcmReceiver { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class sdk.insert.io.activities.InsertVisualActivity { <init>(); }
+-keep class sdk.insert.io.views.video.JCFullScreenActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

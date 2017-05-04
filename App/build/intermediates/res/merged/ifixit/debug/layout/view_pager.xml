@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/insrt_view_pager_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <sdk.insert.io.views.pager.InsertPager
+        android:id="@+id/insrt_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"/>
+
+    <sdk.insert.io.views.pager.CirclePageIndicator
+        android:id="@+id/insrt_view_pager_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"/>
+
+</RelativeLayout><!-- From: file:/Users/device/workspace/android_sdk_build/insertIO/src/main/res/layout/view_pager.xml -->

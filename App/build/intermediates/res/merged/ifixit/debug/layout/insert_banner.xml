@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent"-->
+<!--android:id="@+id/insert_visual_scrollview_container">-->
+
+<!--<sdk.insert.io.views.inserts.VisualInsertLayout-->
+<!--android:id="@+id/insert_visual_container"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content">-->
+<!--</sdk.insert.io.views.inserts.VisualInsertLayout>-->
+<!--</FrameLayout>-->
+
+<sdk.insert.io.views.inserts.VisualInsertLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/insert_visual_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="false"
+    android:focusable="false">
+
+</sdk.insert.io.views.inserts.VisualInsertLayout>
+<!-- From: file:/Users/device/workspace/android_sdk_build/insertIO/src/main/res/layout/insert_banner.xml -->

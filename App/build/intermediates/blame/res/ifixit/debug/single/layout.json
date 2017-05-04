@@ -1,0 +1,998 @@
+[
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_parts_tools.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_parts_tools.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/capture_fail.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/capture_fail.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_line.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit_line.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_view_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/capture_fail.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/capture_fail.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_step_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/full_screen_image.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/full_screen_image.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/action_button_barcode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/action_button_barcode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_list_item_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_list_item_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_lines.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit_lines.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/gallery_root.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/gallery_root.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/new_guide_fragment_dialog.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/new_guide_fragment_dialog.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_name_autocomplete_dropdown_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_name_autocomplete_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/thumbnail_viewer.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/thumbnail_viewer.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/open_id_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/open_id_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/activity_tap_on_indication.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/activity_tap_on_indication.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/capture_successful.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/capture_successful.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/offline_guide_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/offline_guide_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/web_view_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/web_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/search_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/search_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/login_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/section_list_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.marczych.androidsectionheaders/androidsectionheaders/1.0.0/res/layout/section_list_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_grid_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_grid_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/no_guides_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/no_guides_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_lines.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit_lines.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/view_pager.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/view_pager.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topics.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topics.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_media_action.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/comment_bubble.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/comment_bubble.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_image.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_step_image.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/number_check_activity.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/number_check_activity.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/gallery_cell.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/gallery_cell.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/menu_row_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/menu_row_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/activity_test_mode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/activity_test_mode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_list_item_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit_list_item_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/video_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/video_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_part_tool_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_part_tool_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_banner.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_banner.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/activity_pairing_mode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/activity_pairing_mode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/comment_bubble.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/comment_bubble.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/thumbnail.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/thumbnail.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/pairing_fail.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/pairing_fail.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_lines.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_video_control_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_video_control_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_info.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_info.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_steps_bullet_popup.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_steps_bullet_popup.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/menu_title.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/menu_title.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/thumbnail.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/thumbnail.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/favorites.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/favorites.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_portal_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_portal_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_visual_insert.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_visual_insert.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_list_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_list_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_list_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_list_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_header_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_header_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_image.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit_image.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_steps_root.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_steps_root.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_list_item_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_list_item_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_list_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_list_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_intro_topic_name.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_intro_topic_name.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/loading_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/loading_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_visual_insert.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_visual_insert.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_body.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit_body.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/thumbnail_viewer.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/thumbnail_viewer.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/full_screen_image.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/full_screen_image.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_guide_list.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_guide_list.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/tooltip_textview.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/tooltip_textview.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.github.chrisbanes.pulltorefresh/pulltorefresh/2.1.2/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_video_control_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_video_control_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_lines.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_step_lines.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_list_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/video_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/video_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_bullet_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit_bullet_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/activity_pairing_mode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/activity_pairing_mode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/action_button_barcode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/action_button_barcode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/favorites.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/favorites.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/register_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/register_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/search_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/search_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.github.chrisbanes.pulltorefresh/pulltorefresh/2.1.2/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/capture_successful.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/capture_successful.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_media_action.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_header_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_header_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/comments.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/comments.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/search.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/search.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_grid_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_grid_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_step.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_media.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/comments.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/comments.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.github.chrisbanes.pulltorefresh/pulltorefresh/2.1.2/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_grid.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_grid.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/offline_guides.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/offline_guides.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/wizard_fragment_page.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/wizard_fragment_page.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/gallery_cell.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/gallery_cell.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_list_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_list_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/wizard_fragment_page.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/wizard_fragment_page.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_conclusion.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_conclusion.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_line.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit_line.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_intro.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_intro.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_part_tool_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_part_tool_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_embed.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_step_embed.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_bullet_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit_bullet_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_parts_tools.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_parts_tools.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_conclusion.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_conclusion.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/new_guide_fragment_dialog.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/new_guide_fragment_dialog.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_list.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_list.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_lines.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_step_lines.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/search_list.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/search_list.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_intro.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_intro.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/tooltip_textview.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/tooltip_textview.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/gallery_root.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/gallery_root.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/wizard_list_item_review.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/wizard_list_item_review.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/embed_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/embed_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_steps_bullet_popup.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_steps_bullet_popup.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/no_guides_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/no_guides_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_steps_portal.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_steps_portal.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/view_pager.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/view_pager.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/pairing_fail.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/pairing_fail.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/menu_row_category.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/menu_row_category.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_portal_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_portal_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_guide_list.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_guide_list.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_media.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/register_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/register_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_intro_edit_text.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_intro_edit_text.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/offline_guides.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/offline_guides.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_image.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit_image.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_body.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit_body.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_activity_fullscreen.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_activity_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_main.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_main.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/activity_test_mode.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/activity_test_mode.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/comment_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/comment_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit_list_item_reorder.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_step_edit_list_item_reorder.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_video.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_step_video.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_intro.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_intro.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_main.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_main.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_grid.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_grid.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topics.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topics.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_search_result_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_search_result_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/menu_row_category.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/menu_row_category.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_intro_topic_name.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_intro_topic_name.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/embed_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/embed_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/web_view_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/web_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_video.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_step_video.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_name_autocomplete_dropdown_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_name_autocomplete_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_embed.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_step_embed.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/wizard_list_item_review.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/wizard_list_item_review.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_steps_root.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_steps_root.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/section_list_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.marczych.androidsectionheaders/androidsectionheaders/1.0.0/res/layout/section_list_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_search_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_view_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/topic_view_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/gallery_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/gallery_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/search.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/search.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/menu_title.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/menu_title.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/menu_row_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/menu_row_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.github.chrisbanes.pulltorefresh/pulltorefresh/2.1.2/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_banner.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_banner.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_intro.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_intro.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/offline_guide_item.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/offline_guide_item.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/gallery_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/gallery_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_search_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_step_edit.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_create_step_edit.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_list_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_step_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/topic_info.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/topic_info.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_search_result_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_search_result_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/comment_row.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/comment_row.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_intro_edit_text.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_intro_edit_text.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/insert_activity_fullscreen.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/insert_activity_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_list.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout/guide_list.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_step.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/activity_tap_on_indication.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.44.44.1843/res/layout/activity_tap_on_indication.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_step_image.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_step_image.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/open_id_view.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/open_id_view.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/guide_create_steps_portal.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/guide_create_steps_portal.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/login_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/login_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/search_list.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/search_list.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/loading_fragment.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout/loading_fragment.xml"
+    },
+    {
+        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    }
+]

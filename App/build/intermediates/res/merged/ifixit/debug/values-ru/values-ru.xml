@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="comment_options">
+    <item>@string/reply</item>
+  </string-array>
+    <string-array name="comment_owner_options">
+    <item>@string/reply</item>
+    <item>@string/edit</item>
+    <item>@string/action_delete</item>
+  </string-array>
+    <string-array name="existing_image_actions">
+    <item>Копировать в Медиа-менеджер</item>
+    <item>Отвязать от Медиа Менеджера</item>
+    <item>Удалить</item>
+  </string-array>
+    <string-array name="guide_list_item_options">
+    <item>@string/view</item>
+    <item>@string/publish</item>
+    <item>@string/edit</item>
+  </string-array>
+    <string-array name="guide_list_item_options_with_delete">
+    <item>@string/view</item>
+    <item>@string/publish</item>
+    <item>@string/edit</item>
+    <item>@string/action_delete</item>
+  </string-array>
+    <string-array name="new_image_actions">
+    <item>Камера</item>
+    <item>Медиа менеджер</item>
+  </string-array>
+    <string-array name="step_list_item_options">
+    <item>@string/edit</item>
+    <item>@string/action_delete</item>
+  </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="account_menu_title">Ваш аккаунт</string>
+    <string name="account_username_title">Аккаунт <ns1:g example="Боба Джонса" id="account_username">(%1$s)</ns1:g></string>
+    <string name="action_delete">Удалить</string>
+    <string name="add_comment">Добавить комментарий...</string>
+    <string name="add_guide">Добавить инструкцию</string>
+    <string name="add_reply">Добавить ответ...</string>
+    <string name="add_step">Добавить шаг</string>
+    <string name="answers">Ответы</string>
+    <string name="author">Автор</string>
+    <string name="back_to_site_list">Вернуться к списку сайтов</string>
+    <string name="black_bullet_description">Черный маркер</string>
+    <string name="blue_bullet_description">Синий маркер</string>
+    <string name="bullet_desc">Маркер шага руководства</string>
+    <string name="bullet_icon_desc">Заметьте, важный шаг</string>
+    <string name="bullet_reorder_description">Маркер напоминания</string>
+    <string name="by_author">Автор <ns1:g example="Джон Доу" id="author_name">%1$s</ns1:g></string>
+    <string name="by_on_comment_details"><ns1:g example="Боб Джонс" id="comment_author">%1$s</ns1:g>
+<ns1:g id="comment_date">%2$s</ns1:g></string>
+    <string name="camera_tool_tip">Камера</string>
+    <string name="cancel">Отмена</string>
+    <string name="cancel_register_button">Отмена</string>
+    <string name="cancel_register_description">Отменить регистрацию</string>
+    <string name="cancel_reorder_bullets">Отмена</string>
+    <string name="categories">Категории</string>
+    <string name="category">Категория</string>
+    <string name="caution_bullet_description">Маркер предостережения</string>
+    <string name="close_full_screen_desc">Кнопка закрытия полноэкранного режима.</string>
+    <string name="comments">Комментарии</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Сервисы Google Play, необходимые для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", сейчас недоступны. Обратитесь за помощью к разработчику."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Этого аккаунта нет на устройстве. Выберите другой."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Недействительный аккаунт"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Для работы с Google Play требуется подключение к сети передачи данных."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Ошибка сети"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Выполните действие, запрашиваемое приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\"."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Требуется выполнить действие"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"У вашего профиля нет доступа к аккаунтам."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Профиль с ограниченным доступом"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"При входе в указанный аккаунт произошла ошибка. Выберите другой аккаунт."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Ошибка входа"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Обновление сервисов Google Play…"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="complete_this_guide">Законченная инструкция</string>
+    <string name="completed">Завершено!</string>
+    <string name="completing">Завершение...</string>
+    <string name="conclusion">Заключение</string>
+    <string name="confirm_delete_body">Удаление руководства НЕ МОЖЕТ БЫТЬ отменено. Вы точно хотите удалить
+<ns1:g example="Руководство по починке iPhone 4" id="confirm_delete_guide_name">\"%1$s\"</ns1:g>?</string>
+    <string name="confirm_delete_title">Подтвердите удаление</string>
+    <string name="confirm_reorder_bullets">Подтвердить</string>
+    <string name="create_new_guide">Создать новую инструкцию.</string>
+    <string name="creating_new_guide">Создание новой инструкции...</string>
+    <string name="debug">Отладка</string>
+    <string name="default_step_number">Шаг #</string>
+    <string name="default_step_title">Безымянный шаг</string>
+    <string name="default_title">Заголовок по умолчанию</string>
+    <string name="delete_bullet">Удалить маркер</string>
+    <string name="delete_loading_image_error">Одно или более изображений еще загружаются и не будут удалены с сервера.</string>
+    <string name="delete_step">Удалить шаг</string>
+    <string name="deleting">Удаление...</string>
+    <string name="device">Устройство</string>
+    <string name="device_invalid_characters_error_message">В названии устройства содержатся недопустимые символы.</string>
+    <string name="devices">Устройства</string>
+    <string name="difficulty">Сложность</string>
+    <string name="discard_changes">Отменить изменения</string>
+    <string name="edit">Изменить</string>
+    <string name="edit_guide">Редактировать Инструкцию</string>
+    <string name="edit_guide_details">Изменить детали инструкции</string>
+    <string name="email_hint">Email</string>
+    <string name="empty_comments">Нет комментариев.</string>
+    <string name="empty_field_error">Одно или несколько полей не заполнены.</string>
+    <string name="empty_image_error">Изображение отсутствует, попробуйте другое или загрузите новое.</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="error_confirm">ОК</string>
+    <string name="error_deleting_comment">Ошибка удаления комментария. Попробуйте ещё раз.</string>
+    <string name="failed_edit_comment">Ошибка редактирования комментария. Попробуйте ещё раз.</string>
+    <string name="fatal_error">Похоже, произошла ошибка.</string>
+    <string name="fatal_error_title">Неизвестная ошибка</string>
+    <string name="favorite_guide">Добавить Инструкцию в избранное</string>
+    <string name="favorited">Добавлено в избранное!</string>
+    <string name="favorites">Избранное</string>
+    <string name="favorites_empty_text">Вы ещё не добавили ни одной инструкции в избранное.</string>
+    <string name="favoriting">Добавление Инструкции в избранное...</string>
+    <string name="featured_guides">Рекомендуемые руководства</string>
+    <string name="finish">Завершить</string>
+    <string name="fist_background_desc">Первое фоновое изображение</string>
+    <string name="forbidden_error">У вас недостаточно прав, чтобы сделать это.</string>
+    <string name="gallery_image_content_description">Галерея изображений</string>
+    <string name="gallery_tool_tip">Добавить изображение</string>
+    <string name="generalInformation">Основная информация</string>
+    <string name="green_bullet_description">Зеленый маркер</string>
+    <string name="guide_comments">Комментарии к руководству</string>
+    <string name="guide_complete_error_message">Не удалось завершить это руководство.</string>
+    <string name="guide_create_confirm_leave_without_save_body">Операция выхода отменит все произведенные изменения.</string>
+    <string name="guide_create_confirm_leave_without_save_cancel">Отмена</string>
+    <string name="guide_create_confirm_leave_without_save_title">Выйти без сохранения?</string>
+    <string name="guide_create_edit_must_add_line_content">Вы не можете сохранить шаг, пока не добавлено содержимого.</string>
+    <string name="guide_create_edit_step_media_cannot_add_step">Добавьте текст в текущий шаг перед тем, как создать новый.</string>
+    <string name="guide_create_edit_steps_help">текст помощи</string>
+    <string name="guide_create_help">текст помощи</string>
+    <string name="guide_create_step_edit_main_image_description">Редактирование основного изображения шага</string>
+    <string name="guide_create_step_video_description">Пошаговое обучающее видео</string>
+    <string name="guide_intro_wizard_guide_introduction_description">О чем это руководство?
+Опишите компоненты, вещи или идеи, которые вы описываете этим руководством
+<ns1:g example="Заголовок" id="topic_name">%1$s</ns1:g>.</string>
+    <string name="guide_intro_wizard_guide_introduction_title">Введение</string>
+    <string name="guide_intro_wizard_guide_subject_description">О чем это руководство? Опишите
+компоненты, вещи или идеи, которые вы описываете этим руководством <ns1:g example="Заголовок" id="topic_name">%1$s
+</ns1:g>.</string>
+    <string name="guide_intro_wizard_guide_subject_hint">Например, экран, батарея, свечи зажигания и т.п.</string>
+    <string name="guide_intro_wizard_guide_subject_title">Предмет инструкции</string>
+    <string name="guide_intro_wizard_guide_summary_description">В паре предложений опишите, о чем эта инструкция.</string>
+    <string name="guide_intro_wizard_guide_summary_title">Краткое содержание инструкции</string>
+    <string name="guide_intro_wizard_guide_title_description">Сгенерированный Заголовок типа, <ns1:g id="topic_type">%1$s</ns1:g> и фокус. Редактируйте только, если Вы не согласны
+с тем, что
+там.</string>
+    <string name="guide_intro_wizard_guide_title_title">Заголовок инструкции</string>
+    <string name="guide_intro_wizard_guide_topic_description">Над чем  <ns1:g example="Topic" id="topic_name">%1$s</ns1:g>  вы работаете? Например, это"iPhone 4" или "Kenmore стиральная машина"?если <ns1:g id="topic_name">%2$s</ns1:g>  уже существует,
+обязательно выберите его из предварительно заполненных списков.</string>
+    <string name="guide_intro_wizard_guide_topic_hint"><ns1:g example="Topic" id="topic_name">%1$s</ns1:g> Имя</string>
+    <string name="guide_intro_wizard_guide_topic_title">Название %s</string>
+    <string name="guide_intro_wizard_guide_type_title">Тип инструкции</string>
+    <string name="guide_search_thumbnail_content_description">Миниатюра</string>
+    <string name="guide_subject_label">Тема инструкции</string>
+    <string name="guide_subject_required_error">Необходима тема руководства</string>
+    <string name="guide_type">Тип инструкции</string>
+    <string name="guides">инструкции</string>
+    <string name="i_did_it_success">Я сделал это! Успешно!</string>
+    <string name="image">изображение</string>
+    <string name="image_chooser_title">Выбрать картинку</string>
+    <string name="image_saved_to_media_manager_toast">Изображение сохранено в вашем медиа менджере.</string>
+    <string name="images">изображения</string>
+    <string name="important_bullet_description">Маркер важной записи</string>
+    <string name="indent_bullet">Сдвинуть маркер</string>
+    <string name="indent_limit_above">Не могу больше добавлять отступы</string>
+    <string name="indent_limit_below">Не могу больше убирать отступы.</string>
+    <string name="info">Информация</string>
+    <string name="introduction">Введение</string>
+    <string name="invalid_revision_error">Ваши изменения не были сохранены, так как содержимое было изменено после последнего открытия. Пожалуйста, внесите изменения еще раз и повторите попытку.</string>
+    <string name="invalid_revision_error_title">Конфликт редактирования</string>
+    <string name="just_now">прямо сейчас</string>
+    <string name="last_synced">Последняя синхронизация <ns1:g id="sync_date">%1$s</ns1:g>.</string>
+    <string name="line_length_exceeded_error">Максимум 350 символов в строке.</string>
+    <string name="link_to_item">Ссылка на <ns1:g example="Phillips Screwdriver" id="item_name">%1$s</ns1:g></string>
+    <string name="loading">Загрузка...</string>
+    <string name="loading_image">Загрузка изображений...</string>
+    <string name="loading_topic">Загрузка <ns1:g example="iPhone 4" id="topic_name">%1$s</ns1:g>…</string>
+    <string name="login">Логин</string>
+    <string name="login_dialog_title">Логин</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_error">Неверный логин. Проверьте адрес электронной почты и пароль.</string>
+    <string name="login_password_hint">Пароль</string>
+    <string name="media_delete_body">Вы точно хотите удалить <ns1:g example="5" id="number_images_to_delete">%1$d</ns1:g>
+<ns1:g example="изображений" id="media_type">%2$s</ns1:g>?</string>
+    <string name="media_help_confirm">Полезно знать!</string>
+    <string name="media_help_message">Этот медиа-менеджер связан непосредственно с вашим аккаунтом <ns1:g example="iFixit" id="site_name">%1$s</ns1:g>. Все
+изображения, которые вы загружаете сюда будут доступны при создании ваших руководств.</string>
+    <string name="media_help_title">Что это?</string>
+    <string name="my_guides">Мои Руководства</string>
+    <string name="new_guide">Новая инструкция</string>
+    <string name="new_guide_details_title">Детали нового руководства</string>
+    <string name="new_line">Новая строка</string>
+    <string name="next">Следующий</string>
+    <string name="no">Нет</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="no_connection_title">Ошибка соединения</string>
+    <string name="no_guides">Нет инструкций</string>
+    <string name="no_guides_text">Похоже, что у вас нет руководств. Создайте руководство, кликнув на иконку
+на панели задач или в выпадающем меню.</string>
+    <string name="no_images_text">Изображения в вашем Медиа-менеджере отсутствуют. Для их добавления используйте кнопку выше!</string>
+    <string name="no_items">Нет элементов</string>
+    <string name="no_offline_guides_text">Начните добавлять в закладки руководства.\n\nРуководства в закладках будут сохранены для чтения в оффлайне.</string>
+    <string name="no_search_results">Поиск не дал результатов.</string>
+    <string name="no_steps_text">Инструкция пуста.</string>
+    <string name="non_image_error">Минимальный размер картинок — 800×600 пикселей. Принимаются 
+.png, .jpg, .jpeg и.gif</string>
+    <string name="not_found_error">Запрашиваемые данные не существуют.</string>
+    <string name="notification_sync_complete">Избранные инструкции загружены</string>
+    <string name="notification_syncing">Синхронизация избранных инструкций...</string>
+    <string name="offline_guides">Автономные инструкции</string>
+    <string name="on_date"> <ns1:g id="comment_date">%1$s</ns1:g></string>
+    <string name="optional">Опционально</string>
+    <string name="orange_bullet_description">Оранжевый маркер</string>
+    <string name="parse_error_message">Произошла ошибка при попытке загрузить контент с наших серверов.</string>
+    <string name="parse_error_title">Что ж, неловко вышло</string>
+    <string name="parts_and_tools">Запчасти и инструменты</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirm_hint">Подтверждение пароля</string>
+    <string name="passwords_do_not_match_error">Пароли не совпадают.</string>
+    <string name="previous">Предыдущий</string>
+    <string name="publish">Опубликовать</string>
+    <string name="published">Опубликовано</string>
+    <string name="publishing">Публикация...</string>
+    <string name="pull_to_refresh_pull_label">Потяните для обновления…</string>
+    <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="pull_to_refresh_release_label">Отпустите для обновления…</string>
+    <string name="rearrange_bullet">Изменить порядок маркеров</string>
+    <string name="red_bullet_description">Красный маркер</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="register_agreement">Я соглашаюсь <ns1:g><a href="http://www.ifixit.com/Info/Terms_of_Use#Section_User_Submissions">выпустить мои работы</a></ns1:g>
+под <a href="http://www.ifixit.com/Info/Licensing">нашей открытой лицензией</a>.</string>
+    <string name="register_description">Зарегистрироваться на <ns1:g id="brand_website">iFixit.com</ns1:g></string>
+    <string name="register_dialog_title">Зарегистрироваться</string>
+    <string name="reload_guide">Перезагрузить инструкцию</string>
+    <string name="reorder_bullets_title">Изменить порядок маркеров</string>
+    <string name="reorder_steps">Изменить порядок шагов</string>
+    <string name="reply">Ответить</string>
+    <string name="requiredParts">Необходимые части</string>
+    <string name="requiredTools">Необходимые инструменты</string>
+    <string name="restart_video">Перезапустить видео</string>
+    <string name="restart_video_message">Проиграть видео заново?</string>
+    <string name="result_count"><ns1:g example="42" id="number_results">%1$d</ns1:g> Результатов</string>
+    <string name="review">Обзор</string>
+    <string name="save">Сохранить</string>
+    <string name="save_changes_to_step">Сохранить изменения на этом шаге?</string>
+    <string name="saving">Сохранение...</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Поиск на <ns1:g id="brand_name">iFixit</ns1:g></string>
+    <string name="search_site_hint">Поиск <ns1:g id="site_name">%1$s</ns1:g></string>
+    <string name="signin_description">Вход на <ns1:g id="brand_website">iFixit.com</ns1:g></string>
+    <string name="signin_error">Ошибка входа <ns1:g example="example@example.com" id="signin_error_email">%1$s</ns1:g></string>
+    <string name="slide_menu_barcode_scanner">Сканировать QR-код</string>
+    <string name="slide_menu_barcode_scanner_short">Сканировать</string>
+    <string name="slide_menu_browse_content">Просмотр содержимого</string>
+    <string name="slide_menu_browse_devices">Смотреть <ns1:g example="темы" id="topic_type_name">%1$s</ns1:g></string>
+    <string name="slide_menu_create_new_guide">Создать новое руководство</string>
+    <string name="slide_menu_facebook"><ns1:g id="facebook">Facebook</ns1:g></string>
+    <string name="slide_menu_favorite_guides">Избранные руководства</string>
+    <string name="slide_menu_ifixit_everywhere"><ns1:g id="brand_name">iFixit</ns1:g> повсюду</string>
+    <string name="slide_menu_logout">Выход</string>
+    <string name="slide_menu_media_gallery">Медиа-менеджер</string>
+    <string name="slide_menu_more_info">Больше информации</string>
+    <string name="slide_menu_my_guides">Мои Руководства</string>
+    <string name="slide_menu_twitter"><ns1:g id="twitter">Twitter</ns1:g></string>
+    <string name="slide_menu_youtube"><ns1:g id="youtube">Youtube</ns1:g> канал</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="step_comments">Комментарии к шагу</string>
+    <string name="step_delete_dialog_body">Вы действительно хотите удалить эту строку?</string>
+    <string name="step_delete_dialog_title">Удалить строку</string>
+    <string name="step_edit_confirm_delete_message">Вы действительно хотите удалить шаг %1$d?</string>
+    <string name="step_edit_confirm_delete_title">Удалить шаг</string>
+    <string name="step_edit_existing_image_actions_title">Действия с изображениями</string>
+    <string name="step_edit_new_thumb_actions_title">Прикрепить изображение</string>
+    <string name="step_number">Шаг <ns1:g example="1" id="step_number">%1$d</ns1:g></string>
+    <string name="step_number_comments">Шаг <ns1:g id="step_number">%1$d</ns1:g> Комментарии</string>
+    <string name="step_rearrange_title">Переставить шаги</string>
+    <string name="step_text_default">Вставьте мудрость здесь</string>
+    <string name="step_title_hint">Заголовок шага (опционально)</string>
+    <string name="sync_automatically">Синхронизировать автоматически</string>
+    <string name="sync_now">Синхронизировать</string>
+    <string name="sync_status_syncing">Синхронизация...</string>
+    <string name="teardowns">Разборки</string>
+    <string name="terms_unchecked_error">Вы должны согласиться с условиями.</string>
+    <string name="thumbnail_desc">Миниатюра изображения</string>
+    <string name="too_many_image_error">Вы можете выгружать только четыре файла за раз. Пожалуйста, подождите, пока текущие выгрузки завершатся для выгрузки других файлов.</string>
+    <string name="topic_background_description">Фон категории</string>
+    <string name="topic_guide_thumbnail">Иконка раздела инструкции</string>
+    <string name="topic_img_desc">Категория изображения</string>
+    <string name="topic_info_image">Основная категория изображения</string>
+    <string name="topic_name_required_error">%1$s имя необходимо</string>
+    <string name="try_again">Попробуйте ещё раз</string>
+    <string name="unfavorite_confirmation">Вы уверены что хотите удалить инструкцию из избранного?</string>
+    <string name="unfavorite_guide">Удалить Инструкцию из избранного</string>
+    <string name="unfavorited">Удалено из избранного!</string>
+    <string name="unfavoriting">Удаление Инструкции из избранного</string>
+    <string name="unindent_bullet">Сдвинуть маркер назад</string>
+    <string name="unpublish">Убрать публикацию</string>
+    <string name="unpublished">Публикация скрыта</string>
+    <string name="unpublishing">Снятие с публикации...</string>
+    <string name="username">Имя пользователя</string>
+    <string name="validation_error_body">Сбой при проверке</string>
+    <string name="validation_error_title">Ошибка валидации</string>
+    <string name="video_activity_progress_body">Загрузка видео...</string>
+    <string name="video_activity_progress_title">Пожалуйста, подождите...</string>
+    <string name="video_play_button_description">Кнопка проигрывания видео</string>
+    <string name="view">Просмотр</string>
+    <string name="view_comments">Посмотреть комментарии</string>
+    <string name="view_guide">Просмотреть Инструкцию</string>
+    <string name="violet_bullet_description">Фиолетовый маркер</string>
+    <string name="visibility">Видимость</string>
+    <string name="voice_dictate_line_content_description">Надиктовать содержимое строки голосом</string>
+    <string name="yahoo_signin_description">Войти через <ns1:g id="yahoo">Yahoo!</ns1:g></string>
+    <string name="yellow_bullet_description">Желтый маркер</string>
+    <string name="yes">Да</string>
+</resources>

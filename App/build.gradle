@@ -1,0 +1,236 @@
+buildscript {
+   repositories {
+      mavenCentral()
+      jcenter()
+   }
+   dependencies {
+      classpath 'com.android.tools.build:gradle:2.1.0'
+   }
+}
+
+apply plugin: 'com.android.application'
+
+def artifactoryUsername = 'androiduploader'
+def artifactoryPassword = 'wCxKG3jJjWMpRDggSNgU5dCEDsDaUf'
+
+repositories {
+   mavenCentral()
+   mavenLocal() // Needed to pick up analytics from maven-android-sdk-deployer
+   maven {
+      url 'https://raw.github.com/iFixit/ark/master/releases/'
+   }
+
+   maven {
+      url "https://oss.sonatype.org/content/repositories/snapshots"
+   }
+   maven {
+      url "http://software.insert.io/artifactory/android-release"
+      credentials {
+         username artifactoryUsername
+         password artifactoryPassword
+      }
+      maven {
+         url "http://software.insert.io/artifactory/android-sdk-externals"
+      }
+   }
+}
+
+
+
+dependencies {
+   compile fileTree(dir: 'libs', include: '*.jar')
+   compile "com.android.support:support-v4:23.4.0"
+   compile "com.squareup.okhttp:okhttp:1.3.0"
+   compile 'com.android.support:appcompat-v7:23.4.0'
+   compile "com.marczych.androidsectionheaders:androidsectionheaders:1.0.0"
+   compile "com.squareup:otto:1.3.4"
+   compile "com.github.kevinsawicki:http-request:5.6"
+   compile "org.jsoup:jsoup:1.7.2"
+   compile "com.google.code.gson:gson:2.2.4"
+   compile "com.squareup.picasso:picasso:2.2.0"
+   compile "net.simonvt.menudrawer:menudrawer:3.0.5@aar"
+   compile "com.viewpagerindicator:viewpagerindicator:2.4.1"
+   compile "com.github.chrisbanes.pulltorefresh:pulltorefresh:2.1.2"
+   compile "it.sephiroth.android.library.imagezoom:imagezoom:1.0.0"
+   compile "com.vandalsoftware.android:dslv:0.6.3"
+   compile "com.f2prateek.progressbutton:progressbutton:2.1.0@aar"
+   compile "com.google.android.gms:play-services-identity:9.2.1"
+   compile "com.google.android.gms:play-services-plus:9.2.1"
+   compile group: 'sdk.insert.io', name: 'insertIO', version: '1.44.44.1843', changing: true
+   compile 'com.android.support:multidex:1.0.0'
+   compile 'com.google.android.gms:play-services-gcm:9.2.1'
+}
+
+apply plugin: 'com.google.gms.google-services'
+
+// List of sites used to create signingConfigs, sourceSets, and productFlavors.
+//def sites = ["ifixit", "dozuki", "accustream", "dripassist", "magnoliamedical", "pva", "oscaro"]
+def sites = ["ifixit"]
+
+android {
+   compileSdkVersion 23
+   // buildToolsVersion 22.0.1 causes getActionView to return null on an HTC
+   // Evo running Android 2.3.
+   buildToolsVersion "21.1.2"
+
+   defaultConfig {
+      versionCode 223
+      versionName versName
+      minSdkVersion 14
+      targetSdkVersion 21
+      applicationId "com.dozuki.ifixit"
+      multiDexEnabled true
+      archivesBaseName = "ifixit-$versionName"
+   }
+
+   signingConfigs {
+      for (site in sites) {
+         "${site}" createSiteSigningConfig(site)
+      }
+   }
+
+   buildTypes {
+      debug {
+         buildConfigField "String", "DEV_SERVER", '"' + devServer + '"'
+      }
+
+      release {
+         buildConfigField "String", "DEV_SERVER", '""'
+
+         minifyEnabled true
+         proguardFile 'proguard.cfg'
+
+      }
+   }
+
+   lintOptions {
+      /* Check release builds but don't abort on error. */
+      checkReleaseBuilds true
+      abortOnError false
+   }
+
+   /* Construct base product flavors. */
+   productFlavors {
+      for (site in sites) {
+         "${site}" {
+            print "*****" + site
+            signingConfig signingConfigs."${site}"
+            applicationId "com.dozuki.${site}"
+
+            buildConfigField "String", "SEARCH_PROVIDER_AUTHORITY", "\"com.dozuki.${site}.ui.search.SearchSuggestionProvider\""
+            buildConfigField "String", "SITE_NAME", '"' + site + '"'
+            buildConfigField "String", "APP_ID", '"' + getProperty("${site}AppId") + '"'
+            buildConfigField "String", "GA_PROPERTY_ID", '"' + getProperty("${site}GAPropertyId") + '"'
+            ext.apiEndpoint=customAPIEndpoint
+            ext.schema=pairingSchema
+            ext.appKey=appKey
+            ext.socketEndpoint = socketEndpoint
+            ext.analyticsEndpoint = analyticsEndpoint
+            ext.companyName = companyName
+
+//            if (site == 'dozuki') {
+//               dependencies {
+//                  dozukiCompile 'com.embarkmobile:zxing-android-minimal:1.1.4@aar'
+//                  dozukiCompile 'com.google.zxing:core:2.2'
+//               }
+//            } else if (site == 'accustream') {
+//               dependencies {
+//                  accustreamCompile 'com.embarkmobile:zxing-android-minimal:1.1.4@aar'
+//                  accustreamCompile 'com.google.zxing:core:2.2'
+//               }
+//            }
+         }
+      }
+
+
+   }
+
+   sourceSets {
+      main {
+         manifest.srcFile 'AndroidManifest.xml'
+         java.srcDirs = ['src']
+         resources.srcDirs = ['src']
+         aidl.srcDirs = ['src']
+         renderscript.srcDirs = ['src']
+         res.srcDirs = ['res']
+         assets.srcDirs = ['assets']
+      }
+
+      for (site in sites) {
+         "${site}" createSiteSourceSet(site)
+      }
+   }
+}
+
+//// FOR CI changing the api endpoints and schemas
+android.applicationVariants.all { variant ->
+   def flavor = variant.productFlavors.get(0)
+   def buildType = variant.buildType
+   variant.outputs.each { output ->
+      output.processManifest.doLast {
+         println '################# Adding Package Names to Manifest #######################'
+         replaceInManifest(variant,
+                 'android:value=\"http://192.168.56.1:3001\"',
+                 'android:value="' + flavor.ext.apiEndpoint + '"') // ignores null
+         replaceInManifest(variant,
+                 'android:scheme=\"insert-3e4bb00f77f4\"',
+                 'android:scheme="' + flavor.ext.schema + '"') // ignores null
+
+         replaceInManifest(variant,
+                 'android:value=\"your app key\"',
+                 'android:value="' + flavor.ext.appKey + '"') // ignores null
+
+         replaceInManifest(variant,
+                 'android:value=\"your custom socket url\"',
+                 'android:value="' + flavor.ext.socketEndpoint + '"') // ignores null
+
+         replaceInManifest(variant,
+                 'android:value=\"your custom analytics url\"',
+                 'android:value="' + flavor.ext.analyticsEndpoint + '"') // ignores null
+
+         replaceInManifest(variant,
+                 'android:value=\"your custom company name\"',
+                 'android:value="' + flavor.ext.companyName + '"') // ignores null
+
+      }
+
+   }
+}
+ext.replaceInManifest = {variant, fromString, toString ->
+   def flavor = variant.productFlavors.get(0)
+   def buildtype = variant.buildType
+   def manifestFile = "${buildDir}/intermediates/manifests/full/${variant.dirName}/AndroidManifest.xml"
+   def updatedContent = new File(manifestFile).getText('UTF-8').replace(fromString, toString)
+   print updatedContent
+   new File(manifestFile).write(updatedContent, 'UTF-8')
+}
+
+/* Various functions to create DSL for a site. */
+
+def createSiteSigningConfig(siteName) {
+   return {
+      storeFile file("sites/${siteName}/keystore")
+      keyAlias getProperty("${siteName}KeyAlias")
+      storePassword getProperty("${siteName}StorePassword")
+      keyPassword getProperty("${siteName}KeyPassword")
+   }
+}
+
+def createSiteSourceSet(siteName) {
+   if (siteName == 'dozuki') {
+      // Include all white label apps so we can use their themes.
+      return {
+         manifest.srcFile "sites/dozuki/AndroidManifest.xml"
+         res.srcDirs = ["sites/dozuki/res", "sites/ifixit/res"]
+         java.srcDirs = ["sites/dozuki/src", "sites/ifixit/src"]
+      }
+   } else {
+      return {
+         manifest.srcFile "sites/${siteName}/AndroidManifest.xml"
+         res.srcDirs = ["sites/${siteName}/res", "sites/${siteName}/site-res"]
+         java.srcDirs = ["sites/${siteName}/src"]
+      }
+   }
+}
+
+

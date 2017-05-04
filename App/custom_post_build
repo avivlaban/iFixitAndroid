@@ -1,0 +1,34 @@
+artifactory_url=http://software.insert.io/artifactory/android-host-app/
+apk_name="ifixit-"
+custom_apk_name=$apk_name
+custom_apk_name+=$APP_VERSION_NAME
+custom_apk_name+="-ifixit-debug.apk"
+
+
+upload_url=iFixitAndroid/App/build/outputs/apk/
+upload_url+=$custom_apk_name
+curl --user androiduploader:wCxKG3jJjWMpRDggSNgU5dCEDsDaUf --upload-file $upload_url $artifactory_url
+
+message_text="Ifixit host app against "
+message_text+=$API_ENDPOINT
+message_text+="was uploaded: <"
+message_text+=$artifactory_url
+message_text+=$custom_apk_name
+message_text+="|download>"
+curl -X POST --data-urlencode 'payload={"text": "'"$message_text"'", "icon_url": "http://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png", "username": "Android builds", "channel": "'"$SLACK_USER"'"}' https://hooks.slack.com/services/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
+
+upload_url=android/build/outputs/apk/
+upload_url+=$production_apk_name
+curl --user androiduploader:wCxKG3jJjWMpRDggSNgU5dCEDsDaUf --upload-file $upload_url $artifactory_url
+
+
+
+
+# updating the SDK version in the custom API endpoint
+sdk_version_message=$SDK_VERSION
+sdk_version_message+=" was updated to: "
+sdk_version_message+=$API_ENDPOINT
+
+curl -H "Content-Type: application/json" -X POST -d  '{"name":"'"$SDK_VERSION"'" ,"version": "'"$SDK_VERSION"'","description": "Andorid SDK version","os": "Android","minOsVersion": "11","status": "Alpha"}' $API_ENDPOINT
+
+curl -X POST --data-urlencode 'payload={"text": "'"$sdk_version_message"'", "icon_url": "http://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png", "username": "Android builds", "channel": "'"$SLACK_USER"'"}' https://hooks.slack.com/services/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

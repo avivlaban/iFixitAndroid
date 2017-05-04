@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity
+            android:name="com.dozuki.ifixit.ui.topic_view.TopicActivity"
+            android:launchMode="singleTop"/>
+
+        <!-- This must be specified as com.dozuki.ifixit because changing the
+             package name in Gradle has some issues. If it is left as
+             ".ui.dozuki.SiteListActivity" it is converted to
+             "com.dozuki.dozuki.ui.dozuki.SiteListactivity" which _should_ be
+             fine. However, the package for code is not changed so
+             SiteListActivity actually lives in "com.dozuki.ifixit.ui.dozuki".
+             -->
+        <activity
+            android:name="com.dozuki.ifixit.ui.dozuki.SiteListActivity"
+            android:theme="@style/Theme.Dozuki"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+            <intent-filter>
+               <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+            <meta-data android:name="android.app.searchable"
+               android:resource="@xml/dozuki_searchable"/>
+            <meta-data android:name="android.app.default_searchable"
+               android:value=".SiteListActivity" />
+        </activity>
+
+        <activity
+            android:name="com.dozuki.ifixit.ui.IntentFilterActivity"
+            android:taskAffinity=""
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <!-- We need to match Guide and Teardown for upper and lower case and also http and https. -->
+                <data android:scheme="http"  android:host="*.dozuki.com" android:pathPrefix="/Guide/"/>
+                <data android:scheme="https" android:host="*.dozuki.com" android:pathPrefix="/Guide/"/>
+                <data android:scheme="http"  android:host="*.dozuki.com" android:pathPrefix="/Teardown/"/>
+                <data android:scheme="https" android:host="*.dozuki.com" android:pathPrefix="/Teardown/"/>
+
+                <data android:scheme="http"  android:host="*.dozuki.com" android:pathPrefix="/guide/"/>
+                <data android:scheme="https" android:host="*.dozuki.com" android:pathPrefix="/guide/"/>
+                <data android:scheme="http"  android:host="*.dozuki.com" android:pathPrefix="/teardown/"/>
+                <data android:scheme="https" android:host="*.dozuki.com" android:pathPrefix="/teardown/"/>
+
+                <data android:scheme="http"  android:host="*.dozuki.com" android:pathPrefix="/c/"/>
+                <data android:scheme="https" android:host="*.dozuki.com" android:pathPrefix="/c/"/>
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.dozuki.ifixit.ui.search.SearchSuggestionProvider"
+            android:authorities="com.dozuki.dozuki.ui.search.SearchSuggestionProvider"/>
+
+         <provider
+            android:name="com.dozuki.ifixit.util.api.ApiContentProvider"
+            android:authorities="com.dozuki.dozuki.provider"
+            android:exported="false"
+            android:syncable="true"/>
+    </application>
+</manifest>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/mzych/Documents/android/AndroidSectionHeaders/library/res/values/attrs.xml -->
+    <attr name="sectionListViewStyle" type="reference" />
+    <!-- From: file:/Users/mzych/Documents/android/AndroidSectionHeaders/library/res/values/strings.xml -->
+    <string name="app_name">library</string>
+    <string name="hello">Hello World!</string>
+    <!-- From: file:/Users/mzych/Documents/android/AndroidSectionHeaders/library/res/values/styles.xml -->
+    <style name="Theme.SectionHeaders" parent="android:Theme">
+        <item name="sectionListViewStyle">@style/Theme.SectionHeaders.ListViewStyle</item>
+    </style>
+
+    <style name="Theme.SectionHeaders.ListViewStyle">
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:divider">#FFDDDDDD</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:fadingEdge">none</item>
+    </style>
+
+</resources>

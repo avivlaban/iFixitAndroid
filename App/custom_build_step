@@ -1,0 +1,19 @@
+
+sed -i -e "s/libs-snapshot-local/$SDK_SOURCE_REPO/g" iFixitAndroid/App/build.gradle
+if [ -f android/build.gradle-e ]; then
+    rm android/build.gradle-e
+fi
+
+sed -i -e "s/999.999+/$SDK_VERSION/g" iFixitAndroid/App/build.gradle
+if [ -f insertIO/build.gradle-e ]; then
+    rm insertIO/build.gradle-e
+fi
+
+echo "build.gradle"
+cat iFixitAndroid/App/build.gradle
+
+curl -X POST --data-urlencode 'payload={"text": "Starting to build the Ifixit host app, please wait...", "icon_url": "http://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png", "username": "Android builds", "channel": "'"$SLACK_USER"'"}' https://hooks.slack.com/services/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
+
+cd iFixitAndroid
+./gradlew assembleDebug -PversCode=999 -PversName=$APP_VERSION_NAME -PappKey=$APP_KEY -PcustomAPIEndpoint=$API_ENDPOINT -PpairingSchema=$PAIRING_SCHEMA -PsocketEndpoint=$SOCKET_ENDPOINT -PanalyticsEndpoint=$ANALYTICS_ENDPOINT -PcompanyName=$COMPANY_NAME
+
