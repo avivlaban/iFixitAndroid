@@ -1,8 +1,9 @@
 package com.dozuki.ifixit.ui;
 
 import android.content.Context;
-import android.text.Html;
+import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -14,6 +15,8 @@ import com.dozuki.ifixit.util.Utils;
 import com.dozuki.ifixit.util.transformations.RoundedTransformation;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Transformation;
+
+import sdk.insert.io.Insert;
 
 
 public class GuideItemView extends TouchableRelativeLayout {
@@ -56,5 +59,12 @@ public class GuideItemView extends TouchableRelativeLayout {
           .transform(transform)
           .into(mThumbnail);
       }
+      mThumbnail.setOnClickListener(new OnClickListener() {
+         @Override
+         public void onClick(View v) {
+            Log.d("Hello", "Here");
+            Insert.eventOccurred("buttonClicked", null);
+         }
+      });
    }
 }
