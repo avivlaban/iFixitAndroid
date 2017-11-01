@@ -115,7 +115,7 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="insert-958745d6"/>
+                <data android:scheme="insert-3e4bb00f77f4"/>
             </intent-filter>
             <intent-filter>
                 <action android:name="958745d6" />
