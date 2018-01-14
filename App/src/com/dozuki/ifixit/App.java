@@ -109,7 +109,6 @@ public class App extends MultiDexApplication {
 
    @Override
    public void onCreate() {
-      Fabric.with(this, new Crashlytics());
       Map userAttributes = new HashMap<String, String>();
       userAttributes.put("UserAge", "60");
       userAttributes.put("UserCountry", "Bulgaria");
@@ -174,6 +173,7 @@ public class App extends MultiDexApplication {
       }
 
       super.onCreate();
+      Fabric.with(this, new Crashlytics());
       initializeGa();
       Api.init();
       ImageSizes.init(this);
