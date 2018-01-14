@@ -28,7 +28,7 @@ public final class R {
 		public static final int progress_default_progress_color = 0x7f0c0064;
 	}
 	public static final class dimen {
-		public static final int progress_inner_size = 0x7f09008c;
+		public static final int progress_inner_size = 0x7f09008e;
 	}
 	public static final class drawable {
 		public static final int pin_progress_pinned = 0x7f0201ab;

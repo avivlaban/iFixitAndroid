@@ -1,34 +1,18 @@
 [
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/searchable.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/xml/searchable.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/authenticator.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/site-res/xml/authenticator.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/searchable.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/xml/searchable.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/account_preferences.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/xml/account_preferences.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/account_preferences.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/xml/account_preferences.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/searchable.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/xml/searchable.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/api_sync_adapter.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/site-res/xml/api_sync_adapter.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/api_sync_adapter.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/site-res/xml/api_sync_adapter.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/account_preferences.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/xml/account_preferences.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/authenticator.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/site-res/xml/authenticator.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/authenticator.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/site-res/xml/authenticator.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/xml/api_sync_adapter.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/site-res/xml/api_sync_adapter.xml"
     }
 ]

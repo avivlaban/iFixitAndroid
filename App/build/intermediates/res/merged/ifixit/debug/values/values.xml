@@ -242,7 +242,7 @@
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="ProgressButton"><attr format="integer" name="progress"/><attr format="integer" name="max"/><attr format="color" name="circleColor"/><attr format="color" name="progressColor"/><attr format="reference" name="pinnedDrawable"/><attr format="reference" name="unpinnedDrawable"/><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="innerSize"/><attr format="boolean" name="pinned"/><attr format="boolean" name="animating"/><attr format="integer" name="animationSpeed"/><attr format="integer" name="animationDelay"/><attr format="integer" name="animationStripWidth"/><attr name="android:background"/><attr name="android:clickable"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
-    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize"><enum name="standard" value="0"/><enum name="wide" value="1"/><enum name="icon_only" value="2"/></attr><attr format="reference|enum" name="colorScheme"><enum name="dark" value="0"/><enum name="light" value="1"/><enum name="auto" value="2"/></attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
@@ -370,6 +370,8 @@
     <dimen name="indicator_internal_padding">4dp</dimen>
     <dimen name="indicator_right_padding">10dp</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
     <dimen name="landscape_navigation_height">40dp</dimen>
     <dimen name="list_item_horizontal_margin">4dp</dimen>
     <dimen name="list_item_thumbnail_height">60dp</dimen>
@@ -533,6 +535,7 @@
     <string name="default_step_number">Step #</string>
     <string name="default_step_title">Untitled step</string>
     <string name="default_title">Default Title</string>
+    <string name="default_web_client_id" translatable="false">398628262714-91fpel9alg2q22srpv4s362m3ttmdh1r.apps.googleusercontent.com</string>
     <string name="delete_bullet">Delete bullet</string>
     <string name="delete_loading_image_error">One or more images are still loading and will not be deleted from the server.</string>
     <string name="delete_step">Delete step</string>
@@ -568,11 +571,11 @@
     <string name="ga_trackingId">UA-30506-9</string>
     <string name="gallery_image_content_description">Gallery Image</string>
     <string name="gallery_tool_tip">Add Image</string>
-    <string name="gcm_defaultSenderId" translatable="false">1076156138964</string>
+    <string name="gcm_defaultSenderId" translatable="false">398628262714</string>
     <string name="generalInformation">General Information</string>
-    <string name="google_api_key" translatable="false">AIzaSyDkWpUiGb_KkAZG4r1Uh5KUoCtmIy8oxbA</string>
-    <string name="google_app_id" translatable="false">1:1076156138964:android:9785bbdd246da20e</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDkWpUiGb_KkAZG4r1Uh5KUoCtmIy8oxbA</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrDtCmGeHhOPGuVv2J-UBJOFIzGhPYw8w</string>
+    <string name="google_app_id" translatable="false">1:398628262714:android:9785bbdd246da20e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrDtCmGeHhOPGuVv2J-UBJOFIzGhPYw8w</string>
     <string name="green_bullet_description">Green bullet</string>
     <string name="guide_comments">Guide Comments</string>
     <string name="guide_complete_error_message">Couldn\'t complete this guide.</string>
@@ -653,7 +656,7 @@
     <string name="insert_play_selector_accessibility_description">Insert video play selector</string>
     <string name="insert_radio_button_accessibility_description">Insert radio button</string>
     <string name="insert_rating_bar_access_desc">Insert rating bar</string>
-    <string name="insert_sdk_version">1.44.44.1843</string>
+    <string name="insert_sdk_version">1.49.49.2221</string>
     <string name="insert_test_mode_accessibility_description">Insert test mode connected button</string>
     <string name="insert_test_mode_connected_button_accessibility_description">Insert test mode connected button</string>
     <string name="insert_test_mode_disconnected_button_accessibility_description">Insert test mode disconnected button</string>

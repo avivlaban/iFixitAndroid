@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="insertIO-1.49.49.2221">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.49.49.2221/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.49.49.2221/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/App/build/intermediates/exploded-aar/sdk.insert.io/insertIO/1.49.49.2221/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

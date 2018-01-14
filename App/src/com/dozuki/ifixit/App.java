@@ -108,20 +108,36 @@ public class App extends MultiDexApplication {
    @Override
    public void onCreate() {
 
-      Insert.initSDK(
-              this,
-              "22bd0ed4c27b1aadf8cbd9e95e7fcf308e51de1dfda056405282b28efc137783cb1711b81b125efab694333b534b83c352f5a5e34f64d2dd38a6a6cf1b5e7b44c7d211318af5008f9b5d258aab65f56c.ae65b2ee9fa2148a24e9cf1f6a6daf66.3c796bb8b672a19f6da2e812b7110b43c9855d6d8434732a08a7ab7fe8c09d7d",
-              "tsafrir2",
-              null);
-
       Map userAttributes = new HashMap<String, String>();
       userAttributes.put("UserAge", "60");
       userAttributes.put("UserCountry", "Bulgaria");
       userAttributes.put("UserGender", "Female");
       userAttributes.put("AdFree", "true");
-      Insert.setUserAttributes(userAttributes);
 
-      Insert.setUserId("Android User ID");
+      //For SDK 48 and lower
+//      Insert.initSDK(
+//              this,
+//              "4197fa0f30535d92776d43af242046cac39e1aeb7e6272c5611f2da344d78d21ddc75c56bfe67300562964e845484f78adfcd6df6f0c4d2311b333283780a914.653c51cbe18d11023fbae2409678a669.c974f305a8cf01840858dd98b5709c5e4236b4999d4a98f9c0a38325284f7222",
+//              "aviv",
+//              null);
+//
+//      Insert.setUserAttributes(userAttributes);
+//      Insert.setUserId("Android User ID");
+
+      //For SDK 49 and above
+      Insert.initSDK(
+              this,
+              "d8db5b669d4a059a2eeeabc76136bafb216c224474b3e0ef96cf23c51f615273637bcc7103e116a125e7510da8ffd847d8d7c0d1c387bacaa399e4e6bfde92fbe4bf05814183a68f4c233ed2cba312cd.202160b36c02a176a619e80394fb40a0.294030292a30dc7b9077f8596a44a1ef6014d102ddc04883864825e576411e27",
+              "avivlaban",
+              new Insert.InsertInitParams()
+                      .setUserAttributes(userAttributes)
+                      .setVisitorId("*******   VISITOR ID   ******")
+                      .setAccountId("*******   ACCOUNT ID   ******"));
+
+
+
+
+
 
       // Git Test
       

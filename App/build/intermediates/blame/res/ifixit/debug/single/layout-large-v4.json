@@ -1,42 +1,22 @@
 [
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_guide_list.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout-large/topic_guide_list.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/guide_grid_item.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/layout-large/guide_grid_item.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_info.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout-large/topic_info.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_list_fragment.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/layout-large/topic_list_fragment.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_list_fragment.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout-large/topic_list_fragment.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_guide_list.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/layout-large/topic_guide_list.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/guide_grid_item.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout-large/guide_grid_item.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topics.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/layout-large/topics.xml"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_guide_list.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout-large/topic_guide_list.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_info.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout-large/topic_info.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_list_fragment.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout-large/topic_list_fragment.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/guide_grid_item.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout-large/guide_grid_item.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topics.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout-large/topics.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topics.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout-large/topics.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-large-v4/topic_info.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/layout-large/topic_info.xml"
     }
 ]

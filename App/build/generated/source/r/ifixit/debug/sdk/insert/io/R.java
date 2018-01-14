@@ -7,9 +7,6 @@
 package sdk.insert.io;
 
 public final class R {
-	public static final class anim {
-		public static final int proganim = 0x7f04000b;
-	}
 	public static final class attr {
 		public static final int alignContent = 0x7f0100d5;
 		public static final int alignItems = 0x7f0100d4;
@@ -56,6 +53,8 @@ public final class R {
 		public static final int activity_vertical_margin = 0x7f090061;
 		public static final int circle_close_button_width = 0x7f090062;
 		public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f090085;
+		public static final int item_touch_helper_swipe_escape_max_velocity = 0x7f090086;
+		public static final int item_touch_helper_swipe_escape_velocity = 0x7f090087;
 	}
 	public static final class drawable {
 		public static final int enlarge_video = 0x7f02008d;
@@ -94,6 +93,7 @@ public final class R {
 		public static final int insert_video_loading = 0x7f020192;
 		public static final int insert_video_loading_icon = 0x7f020193;
 		public static final int insert_video_progress = 0x7f020194;
+		public static final int proganim = 0x7f0201ae;
 	}
 	public static final class id {
 		public static final int auto = 0x7f0d003f;
@@ -119,15 +119,15 @@ public final class R {
 		public static final int insert_testmode_container = 0x7f0d0090;
 		public static final int insert_visual_container = 0x7f0d011f;
 		public static final int insert_visual_scrollview_container = 0x7f0d012d;
-		public static final int insrt_view_pager = 0x7f0d018a;
-		public static final int insrt_view_pager_container = 0x7f0d0189;
-		public static final int insrt_view_pager_indicator = 0x7f0d018b;
+		public static final int insrt_view_pager = 0x7f0d0195;
+		public static final int insrt_view_pager_container = 0x7f0d0194;
+		public static final int insrt_view_pager_indicator = 0x7f0d0196;
 		public static final int item_touch_helper_previous_elevation = 0x7f0d000a;
 		public static final int jcvideoplayer = 0x7f0d011e;
 		public static final int listen_mode_status = 0x7f0d0097;
 		public static final int loading = 0x7f0d0124;
 		public static final int nowrap = 0x7f0d0035;
-		public static final int pairingViewFail = 0x7f0d0161;
+		public static final int pairingViewFail = 0x7f0d016c;
 		public static final int pairing_mode_status = 0x7f0d008e;
 		public static final int parentview = 0x7f0d0120;
 		public static final int progress = 0x7f0d0127;
@@ -163,42 +163,42 @@ public final class R {
 		public static final int view_pager = 0x7f03007a;
 	}
 	public static final class string {
-		public static final int insert_accessibility = 0x7f060141;
-		public static final int insert_active_inserts_test_mode = 0x7f060142;
-		public static final int insert_app_id_testing = 0x7f060143;
-		public static final int insert_button_disconnect_permanently = 0x7f060144;
-		public static final int insert_button_disconnect_this_session = 0x7f060145;
-		public static final int insert_calling_activity_intent_param = 0x7f060146;
-		public static final int insert_capture_button_accessibility_description = 0x7f060147;
-		public static final int insert_capture_mode_accessibility_description = 0x7f060148;
-		public static final int insert_close_button_accessibility_description = 0x7f060149;
-		public static final int insert_connected = 0x7f06014a;
-		public static final int insert_custom_analytics_url = 0x7f06014b;
-		public static final int insert_custom_socket_url = 0x7f06014c;
-		public static final int insert_custom_url = 0x7f06014d;
-		public static final int insert_debug_log = 0x7f06014e;
-		public static final int insert_default_test_mode_value = 0x7f06014f;
-		public static final int insert_disconnected_for_current_session = 0x7f060150;
-		public static final int insert_disconnected_permanently = 0x7f060151;
-		public static final int insert_image_accessibility_description = 0x7f060152;
-		public static final int insert_io_sending_image = 0x7f060153;
-		public static final int insert_pager_accessibility_description = 0x7f060154;
-		public static final int insert_paired_connected_button_accessibility_description = 0x7f060155;
-		public static final int insert_paired_disconnected_button_accessibility_description = 0x7f060156;
-		public static final int insert_pairing_buttton_name_tag = 0x7f060157;
-		public static final int insert_pairing_error_occurred = 0x7f060158;
-		public static final int insert_play_selector_accessibility_description = 0x7f060159;
-		public static final int insert_radio_button_accessibility_description = 0x7f06015a;
-		public static final int insert_rating_bar_access_desc = 0x7f06015b;
-		public static final int insert_sdk_version = 0x7f06015c;
-		public static final int insert_test_mode_accessibility_description = 0x7f06015d;
-		public static final int insert_test_mode_connected_button_accessibility_description = 0x7f06015e;
-		public static final int insert_test_mode_disconnected_button_accessibility_description = 0x7f06015f;
-		public static final int insert_video_pause_selector_accessibility_description = 0x7f060160;
-		public static final int insert_video_player_accessibility_description = 0x7f060161;
-		public static final int insert_visual_accessibility = 0x7f060162;
-		public static final int insert_visual_image_accessibility_description = 0x7f060163;
-		public static final int insert_youtube_accessibility_description = 0x7f060164;
+		public static final int insert_accessibility = 0x7f060142;
+		public static final int insert_active_inserts_test_mode = 0x7f060143;
+		public static final int insert_app_id_testing = 0x7f060144;
+		public static final int insert_button_disconnect_permanently = 0x7f060145;
+		public static final int insert_button_disconnect_this_session = 0x7f060146;
+		public static final int insert_calling_activity_intent_param = 0x7f060147;
+		public static final int insert_capture_button_accessibility_description = 0x7f060148;
+		public static final int insert_capture_mode_accessibility_description = 0x7f060149;
+		public static final int insert_close_button_accessibility_description = 0x7f06014a;
+		public static final int insert_connected = 0x7f06014b;
+		public static final int insert_custom_analytics_url = 0x7f06014c;
+		public static final int insert_custom_socket_url = 0x7f06014d;
+		public static final int insert_custom_url = 0x7f06014e;
+		public static final int insert_debug_log = 0x7f06014f;
+		public static final int insert_default_test_mode_value = 0x7f060150;
+		public static final int insert_disconnected_for_current_session = 0x7f060151;
+		public static final int insert_disconnected_permanently = 0x7f060152;
+		public static final int insert_image_accessibility_description = 0x7f060153;
+		public static final int insert_io_sending_image = 0x7f060154;
+		public static final int insert_pager_accessibility_description = 0x7f060155;
+		public static final int insert_paired_connected_button_accessibility_description = 0x7f060156;
+		public static final int insert_paired_disconnected_button_accessibility_description = 0x7f060157;
+		public static final int insert_pairing_buttton_name_tag = 0x7f060158;
+		public static final int insert_pairing_error_occurred = 0x7f060159;
+		public static final int insert_play_selector_accessibility_description = 0x7f06015a;
+		public static final int insert_radio_button_accessibility_description = 0x7f06015b;
+		public static final int insert_rating_bar_access_desc = 0x7f06015c;
+		public static final int insert_sdk_version = 0x7f06015d;
+		public static final int insert_test_mode_accessibility_description = 0x7f06015e;
+		public static final int insert_test_mode_connected_button_accessibility_description = 0x7f06015f;
+		public static final int insert_test_mode_disconnected_button_accessibility_description = 0x7f060160;
+		public static final int insert_video_pause_selector_accessibility_description = 0x7f060161;
+		public static final int insert_video_player_accessibility_description = 0x7f060162;
+		public static final int insert_visual_accessibility = 0x7f060163;
+		public static final int insert_visual_image_accessibility_description = 0x7f060164;
+		public static final int insert_youtube_accessibility_description = 0x7f060165;
 	}
 	public static final class styleable {
 		public static final int[] InsertCircularCloseButton = { 0x7f0100cc, 0x7f0100cd, 0x7f0100ce, 0x7f0100cf, 0x7f0100d0 };
@@ -235,11 +235,12 @@ public final class R {
 		public static final int InsertLogoView_solidColor = 3;
 		public static final int InsertLogoView_solidStrokeWidth = 1;
 		public static final int InsertLogoView_waitRadius = 9;
-		public static final int[] RecyclerView = { 0x010100c4, 0x7f010129, 0x7f01012a, 0x7f01012b, 0x7f01012c };
+		public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f010129, 0x7f01012a, 0x7f01012b, 0x7f01012c };
+		public static final int RecyclerView_android_descendantFocusability = 1;
 		public static final int RecyclerView_android_orientation = 0;
-		public static final int RecyclerView_layoutManager = 1;
-		public static final int RecyclerView_reverseLayout = 3;
-		public static final int RecyclerView_spanCount = 2;
-		public static final int RecyclerView_stackFromEnd = 4;
+		public static final int RecyclerView_layoutManager = 2;
+		public static final int RecyclerView_reverseLayout = 4;
+		public static final int RecyclerView_spanCount = 3;
+		public static final int RecyclerView_stackFromEnd = 5;
 	}
 }

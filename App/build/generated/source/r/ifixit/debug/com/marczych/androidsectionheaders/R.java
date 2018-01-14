@@ -14,14 +14,14 @@ public final class R {
 		public static final int ic_launcher = 0x7f0200d7;
 	}
 	public static final class id {
-		public static final int list_view = 0x7f0d0172;
+		public static final int list_view = 0x7f0d017d;
 	}
 	public static final class layout {
 		public static final int section_list_view = 0x7f030068;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f060139;
-		public static final int hello = 0x7f060140;
+		public static final int hello = 0x7f060141;
 	}
 	public static final class style {
 		public static final int Theme_SectionHeaders = 0x7f0a0140;

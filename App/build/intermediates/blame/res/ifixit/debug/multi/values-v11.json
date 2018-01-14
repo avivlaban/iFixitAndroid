@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-v11/values-v11.xml",
+        "outputFile": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 340
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 583
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1079
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 1498
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 1923
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -117,7 +117,7 @@
                     "endOffset": 2351
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 2777
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -159,7 +159,7 @@
                     "endOffset": 3204
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -180,7 +180,7 @@
                     "endOffset": 3629
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -200,7 +200,7 @@
                     "endOffset": 3718
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -219,7 +219,7 @@
                     "endOffset": 3819
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 4227
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 4647
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -281,7 +281,7 @@
                     "endOffset": 4754
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -302,7 +302,7 @@
                     "endOffset": 4883
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -323,7 +323,7 @@
                     "endOffset": 5059
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -344,7 +344,7 @@
                     "endOffset": 5245
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -364,7 +364,7 @@
                     "endOffset": 5316
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -383,7 +383,7 @@
                     "endOffset": 5399
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -403,7 +403,7 @@
                     "endOffset": 9107
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -424,7 +424,7 @@
                     "endOffset": 12955
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -444,7 +444,7 @@
                     "endOffset": 13046
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
                     "position": {
                         "startLine": 159,
                         "startColumn": 4,
@@ -464,7 +464,7 @@
                     "endOffset": 13378
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -485,7 +485,7 @@
                     "endOffset": 13511
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.f2prateek.progressbutton/progressbutton/2.1.0/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.f2prateek.progressbutton/progressbutton/2.1.0/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 2,
@@ -506,7 +506,7 @@
                     "endOffset": 13925
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -527,7 +527,7 @@
                     "endOffset": 14198
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -547,7 +547,7 @@
                     "endOffset": 14224
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-v11/themes.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-v11/themes.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -567,7 +567,7 @@
                     "endOffset": 15694
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-v11/themes.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-v11/themes.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -588,7 +588,7 @@
                     "endOffset": 17973
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/themes.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/themes.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -609,7 +609,7 @@
                     "endOffset": 18421
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/themes.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/themes.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -630,651 +630,7 @@
                     "endOffset": 18603
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 1848,
-                        "endLine": 36,
-                        "endColumn": 12,
-                        "endOffset": 2025
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-v11/values-v11.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 5,
-                    "endColumn": 12,
-                    "endOffset": 340
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 171,
-                        "endLine": 8,
-                        "endColumn": 12,
-                        "endOffset": 456
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 345,
-                    "endLine": 10,
-                    "endColumn": 12,
-                    "endOffset": 583
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 611,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 849
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 588,
-                    "endLine": 20,
-                    "endColumn": 12,
-                    "endOffset": 1079
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 114,
-                        "endLine": 11,
-                        "endColumn": 12,
-                        "endOffset": 605
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1084,
-                    "endLine": 26,
-                    "endColumn": 12,
-                    "endOffset": 1498
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 7,
-                        "endColumn": 12,
-                        "endOffset": 469
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 1503,
-                    "endLine": 32,
-                    "endColumn": 12,
-                    "endOffset": 1923
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 474,
-                        "endLine": 13,
-                        "endColumn": 12,
-                        "endOffset": 894
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 1928,
-                    "endLine": 38,
-                    "endColumn": 12,
-                    "endOffset": 2351
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 899,
-                        "endLine": 19,
-                        "endColumn": 12,
-                        "endOffset": 1322
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 2356,
-                    "endLine": 44,
-                    "endColumn": 12,
-                    "endOffset": 2777
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1327,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 1748
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 2782,
-                    "endLine": 50,
-                    "endColumn": 12,
-                    "endOffset": 3204
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 1753,
-                        "endLine": 31,
-                        "endColumn": 12,
-                        "endOffset": 2175
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 3209,
-                    "endLine": 56,
-                    "endColumn": 12,
-                    "endOffset": 3629
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 2180,
-                        "endLine": 37,
-                        "endColumn": 12,
-                        "endOffset": 2600
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 3634,
-                    "endColumn": 88,
-                    "endOffset": 3718
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 2605,
-                        "endColumn": 88,
-                        "endOffset": 2689
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 3723,
-                    "endColumn": 100,
-                    "endOffset": 3819
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 2694,
-                        "endColumn": 100,
-                        "endOffset": 2790
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 3824,
-                    "endLine": 63,
-                    "endColumn": 12,
-                    "endOffset": 4227
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 40,
-                        "startColumn": 4,
-                        "startOffset": 2795,
-                        "endLine": 44,
-                        "endColumn": 12,
-                        "endOffset": 3198
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 4232,
-                    "endLine": 68,
-                    "endColumn": 12,
-                    "endOffset": 4647
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 4,
-                        "startOffset": 3203,
-                        "endLine": 49,
-                        "endColumn": 12,
-                        "endOffset": 3618
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 69,
-                    "startColumn": 4,
-                    "startOffset": 4652,
-                    "endLine": 70,
-                    "endColumn": 12,
-                    "endOffset": 4754
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 50,
-                        "startColumn": 4,
-                        "startOffset": 3623,
-                        "endLine": 51,
-                        "endColumn": 12,
-                        "endOffset": 3725
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 71,
-                    "startColumn": 4,
-                    "startOffset": 4759,
-                    "endLine": 72,
-                    "endColumn": 12,
-                    "endOffset": 4883
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 52,
-                        "startColumn": 4,
-                        "startOffset": 3730,
-                        "endLine": 53,
-                        "endColumn": 12,
-                        "endOffset": 3854
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 73,
-                    "startColumn": 4,
-                    "startOffset": 4888,
-                    "endLine": 75,
-                    "endColumn": 12,
-                    "endOffset": 5059
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 462,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 633
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 76,
-                    "startColumn": 4,
-                    "startOffset": 5064,
-                    "endLine": 78,
-                    "endColumn": 12,
-                    "endOffset": 5245
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 639,
-                        "endLine": 16,
-                        "endColumn": 12,
-                        "endOffset": 820
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 79,
-                    "startColumn": 4,
-                    "startOffset": 5250,
-                    "endColumn": 70,
-                    "endOffset": 5316
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 54,
-                        "startColumn": 4,
-                        "startOffset": 3859,
-                        "endColumn": 70,
-                        "endOffset": 3925
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 80,
-                    "startColumn": 4,
-                    "startOffset": 5321,
-                    "endColumn": 82,
-                    "endOffset": 5399
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 55,
-                        "startColumn": 4,
-                        "startOffset": 3930,
-                        "endColumn": 82,
-                        "endOffset": 4008
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 81,
-                    "startColumn": 4,
-                    "startOffset": 5404,
-                    "endLine": 131,
-                    "endColumn": 12,
-                    "endOffset": 9107
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 4013,
-                        "endLine": 106,
-                        "endColumn": 12,
-                        "endOffset": 7716
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 132,
-                    "startColumn": 4,
-                    "startOffset": 9112,
-                    "endLine": 183,
-                    "endColumn": 12,
-                    "endOffset": 12955
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 107,
-                        "startColumn": 4,
-                        "startOffset": 7721,
-                        "endLine": 158,
-                        "endColumn": 12,
-                        "endOffset": 11564
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 184,
-                    "startColumn": 4,
-                    "startOffset": 12960,
-                    "endColumn": 90,
-                    "endOffset": 13046
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v11/values-v11.xml",
-                    "position": {
-                        "startLine": 159,
-                        "startColumn": 4,
-                        "startOffset": 11569,
-                        "endColumn": 90,
-                        "endOffset": 11655
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 185,
-                    "startColumn": 4,
-                    "startOffset": 13051,
-                    "endLine": 188,
-                    "endColumn": 12,
-                    "endOffset": 13378
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1100,
-                        "endLine": 26,
-                        "endColumn": 12,
-                        "endOffset": 1427
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 189,
-                    "startColumn": 4,
-                    "startOffset": 13383,
-                    "endLine": 191,
-                    "endColumn": 10,
-                    "endOffset": 13511
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.f2prateek.progressbutton/progressbutton/2.1.0/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 2,
-                        "startOffset": 751,
-                        "endLine": 22,
-                        "endColumn": 10,
-                        "endOffset": 881
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 192,
-                    "startColumn": 4,
-                    "startOffset": 13516,
-                    "endLine": 196,
-                    "endColumn": 12,
-                    "endOffset": 13925
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1433,
-                        "endLine": 32,
-                        "endColumn": 12,
-                        "endOffset": 1842
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 197,
-                    "startColumn": 4,
-                    "startOffset": 13930,
-                    "endLine": 200,
-                    "endColumn": 12,
-                    "endOffset": 14198
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 826,
-                        "endLine": 21,
-                        "endColumn": 12,
-                        "endOffset": 1094
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 201,
-                    "startColumn": 4,
-                    "startOffset": 14203,
-                    "endColumn": 25,
-                    "endOffset": 14224
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-v11/themes.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 32,
-                        "endOffset": 83
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 202,
-                    "startColumn": 4,
-                    "startOffset": 14229,
-                    "endLine": 228,
-                    "endColumn": 12,
-                    "endOffset": 15694
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-v11/themes.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 88,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 1553
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 229,
-                    "startColumn": 4,
-                    "startOffset": 15699,
-                    "endLine": 274,
-                    "endColumn": 12,
-                    "endOffset": 17973
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/themes.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 782,
-                        "endLine": 59,
-                        "endColumn": 12,
-                        "endOffset": 3056
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 275,
-                    "startColumn": 4,
-                    "startOffset": 17978,
-                    "endLine": 281,
-                    "endColumn": 12,
-                    "endOffset": 18421
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/themes.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 333,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 776
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 282,
-                    "startColumn": 4,
-                    "startOffset": 18426,
-                    "endLine": 284,
-                    "endColumn": 12,
-                    "endOffset": 18603
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/sites/ifixit/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,

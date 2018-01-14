@@ -226,11 +226,11 @@ public abstract class BaseMenuDrawerActivity extends BaseActivity
          }
       },
 
-      SEARCH(
-         R.string.search,
-         R.drawable.ic_action_search,
-         SearchActivity.class
-      ),
+//      SEARCH(
+//         R.string.search,
+//         R.drawable.ic_action_search,
+//         SearchActivity.class
+//      ),
 
       SCAN_BARCODE(
          R.string.slide_menu_barcode_scanner,

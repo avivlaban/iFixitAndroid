@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-land/step_media_background.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/drawable-land/step_media_background.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-land/step_media_background.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/drawable-land/step_media_background.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-land/step_media_background.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/drawable-land/step_media_background.xml"
     }
 ]
