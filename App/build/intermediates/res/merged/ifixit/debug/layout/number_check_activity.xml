@@ -5,48 +5,59 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/field_value_number_check_test"
         android:text="Field value number check test" />
 
     <TextView
+        android:id="@+id/five_hundred"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="500" />
 
     <TextView
+        android:id="@+id/seven_hundred"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="700" />
 
     <TextView
+        android:id="@+id/thousand"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="1000" />
 
     <TextView
+        android:id="@+id/magellan_gps"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Magellan GPS" />
     <TextView
+        android:id="@+id/magellan_nuvi_1390lmt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Magellan Nuvi 1390LMT" />
     <TextView
+        android:id="@+id/magellan_nuvi_1490t"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Magellan Nuvi 1490T" />
     <TextView
+        android:id="@+id/magellan_roadmate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Magellan RoadMate 1440" />
     <TextView
+        android:id="@+id/roadmate_5250t"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Magellan RoadMate 5250T-LM" />
     <TextView
+        android:id="@+id/tomtom_go_500"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="TomTom GO 500" />
     <TextView
+        android:id="@+id/tracking_device"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Tracking Device" />

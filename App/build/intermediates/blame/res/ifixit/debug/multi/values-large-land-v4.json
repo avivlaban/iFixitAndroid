@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-large-land-v4/values-large-land-v4.xml",
+        "outputFile": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-large-land-v4/values-large-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 165
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 238
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 288
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 402
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -125,145 +125,7 @@
                     "endOffset": 458
                 },
                 "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 209,
-                        "endColumn": 55,
-                        "endOffset": 260
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/values-large-land-v4/values-large-land-v4.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 293,
-                        "endColumn": 57,
-                        "endOffset": 346
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 113,
-                    "endColumn": 56,
-                    "endOffset": 165
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 351,
-                        "endColumn": 56,
-                        "endOffset": 403
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 170,
-                    "endColumn": 72,
-                    "endOffset": 238
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 432,
-                        "endColumn": 72,
-                        "endOffset": 500
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 243,
-                    "endColumn": 49,
-                    "endOffset": 288
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 80,
-                        "endColumn": 49,
-                        "endOffset": 125
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 293,
-                    "endColumn": 53,
-                    "endOffset": 342
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 130,
-                        "endColumn": 53,
-                        "endOffset": 179
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 347,
-                    "endColumn": 59,
-                    "endOffset": 402
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 536,
-                        "endColumn": 59,
-                        "endOffset": 591
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 407,
-                    "endColumn": 55,
-                    "endOffset": 458
-                },
-                "from": {
-                    "file": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/values-large-land/dimens.xml",
+                    "file": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/values-large-land/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,

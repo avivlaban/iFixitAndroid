@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dozuki.ifixit"
     android:versionCode="223"
-    android:versionName="3.44.6" >
+    android:versionName="3.49.8" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -22,7 +22,11 @@
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
     <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
     <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
-    <uses-permission android:name="android.permission.READ_SYNC_STATS" /> <!-- Permissions required for GCM -->
+    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Permissions required for GCM -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- Optional permission for App measurement to run. -->
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
@@ -219,10 +223,10 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data android:scheme="insert-2143c30e" />
+                <data android:scheme="insert-84a1bb23" />
             </intent-filter>
             <intent-filter>
-                <action android:name="2143c30e" />
+                <action android:name="84a1bb23" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
@@ -261,15 +265,6 @@
         <meta-data
             android:name="insert_debug_logging"
             android:value="true" />
-        <meta-data
-            android:name="insert_custom_url"
-            android:value="https://device.stage.insert.io" />
-        <meta-data
-            android:name="insert_custom_socket_url"
-            android:value="https://ws.stage.insert.io" />
-        <meta-data
-            android:name="insert_custom_analytics_url"
-            android:value="https://data.stage.insert.io" />
 
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"

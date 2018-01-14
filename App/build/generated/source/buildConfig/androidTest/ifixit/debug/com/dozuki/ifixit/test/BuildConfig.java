@@ -9,7 +9,7 @@ public final class BuildConfig {
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "ifixit";
   public static final int VERSION_CODE = 223;
-  public static final String VERSION_NAME = "3.44.6";
+  public static final String VERSION_NAME = "3.49.8";
   // Fields from build type: debug
   public static final String DEV_SERVER = "www.ifixit.com";
   // Fields from product flavor: ifixit

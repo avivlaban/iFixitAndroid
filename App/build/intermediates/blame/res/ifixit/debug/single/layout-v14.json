@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-v14/menu_publish_switch.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/res/layout-v14/menu_publish_switch.xml"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-v14/menu_publish_switch.xml",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/res/layout-v14/menu_publish_switch.xml"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/layout-v14/menu_publish_switch.xml",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/res/layout-v14/menu_publish_switch.xml"
     }
 ]

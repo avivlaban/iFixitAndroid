@@ -8,10 +8,10 @@ package com.handmark.pulltorefresh.library;
 
 public final class R {
 	public static final class anim {
-		public static final int slide_in_from_bottom = 0x7f040010;
-		public static final int slide_in_from_top = 0x7f040011;
-		public static final int slide_out_to_bottom = 0x7f04001a;
-		public static final int slide_out_to_top = 0x7f04001b;
+		public static final int slide_in_from_bottom = 0x7f04000f;
+		public static final int slide_in_from_top = 0x7f040010;
+		public static final int slide_out_to_bottom = 0x7f040019;
+		public static final int slide_out_to_top = 0x7f04001a;
 	}
 	public static final class attr {
 		public static final int ptrAdapterViewBackground = 0x7f010126;
@@ -51,7 +51,7 @@ public final class R {
 	public static final class id {
 		public static final int both = 0x7f0d004f;
 		public static final int disabled = 0x7f0d0050;
-		public static final int fl_inner = 0x7f0d0162;
+		public static final int fl_inner = 0x7f0d016d;
 		public static final int flip = 0x7f0d0056;
 		public static final int gridview = 0x7f0d0006;
 		public static final int manualOnly = 0x7f0d0051;
@@ -59,10 +59,10 @@ public final class R {
 		public static final int pullFromEnd = 0x7f0d0053;
 		public static final int pullFromStart = 0x7f0d0054;
 		public static final int pullUpFromBottom = 0x7f0d0055;
-		public static final int pull_to_refresh_image = 0x7f0d0163;
-		public static final int pull_to_refresh_progress = 0x7f0d0164;
-		public static final int pull_to_refresh_sub_text = 0x7f0d0166;
-		public static final int pull_to_refresh_text = 0x7f0d0165;
+		public static final int pull_to_refresh_image = 0x7f0d016e;
+		public static final int pull_to_refresh_progress = 0x7f0d016f;
+		public static final int pull_to_refresh_sub_text = 0x7f0d0171;
+		public static final int pull_to_refresh_text = 0x7f0d0170;
 		public static final int rotate = 0x7f0d0057;
 		public static final int scrollview = 0x7f0d0016;
 		public static final int webview = 0x7f0d001b;

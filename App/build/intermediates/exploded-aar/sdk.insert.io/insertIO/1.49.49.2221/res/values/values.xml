@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#00BBFF</color>
+    <color name="colorTransparent">#CCFFFF</color>
+    <color name="insert_backgrpund_test_dialog">#CC000000</color>
+    <declare-styleable name="InsertCircularCloseButton"><attr format="color" name="insertXColor"/><attr format="color" name="insertCircleColor"/><attr format="color" name="insertFrameColor"/><attr format="dimension" name="insertFrameWidth"/><attr format="dimension" name="insertXWidth"/></declare-styleable>
+    <declare-styleable name="InsertIoFlexboxLayout"><attr name="flexDirection">
+            <enum name="row" value="0"/>
+            <enum name="row_reverse" value="1"/>
+            <enum name="column" value="2"/>
+            <enum name="column_reverse" value="3"/>
+        </attr><attr name="flexWrap">
+            <enum name="nowrap" value="0"/>
+            <enum name="wrap" value="1"/>
+            <enum name="wrap_reverse" value="2"/>
+        </attr><attr name="justifyContent">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="space_between" value="3"/>
+            <enum name="space_around" value="4"/>
+        </attr><attr name="alignItems">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="baseline" value="3"/>
+            <enum name="stretch" value="4"/>
+        </attr><attr name="alignContent">
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="space_between" value="3"/>
+            <enum name="space_around" value="4"/>
+            <enum name="stretch" value="5"/>
+        </attr></declare-styleable>
+    <declare-styleable name="InsertIoFlexboxLayout_Layout"><attr format="integer" name="layout_order"/><attr format="float" name="layout_flexGrow"/><attr format="float" name="layout_flexShrink"/><attr format="fraction" name="layout_flexBasisPercent"/><attr name="layout_alignSelf">
+            <enum name="auto" value="-1"/>
+            
+            <enum name="flex_start" value="0"/>
+            <enum name="flex_end" value="1"/>
+            <enum name="center" value="2"/>
+            <enum name="baseline" value="3"/>
+            <enum name="stretch" value="4"/>
+        </attr><attr format="dimension" name="layout_minWidth"/><attr format="dimension" name="layout_minHeight"/><attr format="dimension" name="layout_maxWidth"/><attr format="dimension" name="layout_maxHeight"/><attr format="boolean" name="layout_wrapBefore"/></declare-styleable>
+    <declare-styleable name="InsertLogoView"><attr format="float" name="dashedStrokeWidth"/><attr format="float" name="solidStrokeWidth"/><attr format="color|reference" name="dashedColor"/><attr format="color|reference" name="solidColor"/><attr format="float" name="phase"/><attr format="float" name="onInterval"/><attr format="float" name="offInterval"/><attr format="integer" name="duration"/><attr format="float" name="fadeFactor"/><attr format="dimension" name="waitRadius"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="circle_close_button_width">3dp</dimen>
+    <item name="tapOnDialogLayout" type="id"/>
+    <item name="tapOnDialogProgressBar" type="id"/>
+    <string name="insert_accessibility">insert_accessibility</string>
+    <string name="insert_active_inserts_test_mode">Active inserts:</string>
+    <string name="insert_app_id_testing">insert_app_id_testing</string>
+    <string name="insert_button_disconnect_permanently">Permanently disconnect</string>
+    <string name="insert_button_disconnect_this_session">Disconnect this session only</string>
+    <string name="insert_calling_activity_intent_param">calling-activity</string>
+    <string name="insert_capture_button_accessibility_description">Insert capture button</string>
+    <string name="insert_capture_mode_accessibility_description">Insert capture mode button</string>
+    <string name="insert_close_button_accessibility_description">Close button</string>
+    <string name="insert_connected">Connected to Insert</string>
+    <string name="insert_custom_analytics_url">insert_custom_analytics_url</string>
+    <string name="insert_custom_socket_url">insert_custom_socket_url</string>
+    <string name="insert_custom_url">insert_custom_url</string>
+    <string name="insert_debug_log">insert_debug_logging</string>
+    <string name="insert_default_test_mode_value">Active inserts will go here.</string>
+    <string name="insert_disconnected_for_current_session">Your device was disconnected for the current session</string>
+    <string name="insert_disconnected_permanently">Your device was disconnected</string>
+    <string name="insert_image_accessibility_description">Insert image</string>
+    <string name="insert_io_sending_image">Sending Image…</string>
+    <string name="insert_pager_accessibility_description">Insert pager</string>
+    <string name="insert_paired_connected_button_accessibility_description">Insert paired connected button</string>
+    <string name="insert_paired_disconnected_button_accessibility_description">Insert paired disconnected button</string>
+    <string name="insert_pairing_buttton_name_tag">PairingButton</string>
+    <string name="insert_pairing_error_occurred">An error was occurred during pairing, please contact Insert support</string>
+    <string name="insert_play_selector_accessibility_description">Insert video play selector</string>
+    <string name="insert_radio_button_accessibility_description">Insert radio button</string>
+    <string name="insert_rating_bar_access_desc">Insert rating bar</string>
+    <string name="insert_sdk_version">1.49.49.2221</string>
+    <string name="insert_test_mode_accessibility_description">Insert test mode connected button</string>
+    <string name="insert_test_mode_connected_button_accessibility_description">Insert test mode connected button</string>
+    <string name="insert_test_mode_disconnected_button_accessibility_description">Insert test mode disconnected button</string>
+    <string name="insert_video_pause_selector_accessibility_description">Insert video pause selector</string>
+    <string name="insert_video_player_accessibility_description">Insert video player</string>
+    <string name="insert_visual_accessibility">Visual Insert</string>
+    <string name="insert_visual_image_accessibility_description">Insert image</string>
+    <string name="insert_youtube_accessibility_description">Insert youtube player</string>
+</resources>

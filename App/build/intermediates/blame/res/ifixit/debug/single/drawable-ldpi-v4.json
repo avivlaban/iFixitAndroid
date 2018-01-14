@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
     },
     {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-ldpi-v4/ic_launcher.png",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.marczych.androidsectionheaders/androidsectionheaders/1.0.0/res/drawable-ldpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/Aviv/iFixitAndroid/App/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
-    },
-    {
-        "merged": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-ldpi-v4/ic_launcher.png",
-        "source": "/Users/Tsafrir/Documents/IFIXIT/iFixitAndroid/App/build/intermediates/exploded-aar/com.marczych.androidsectionheaders/androidsectionheaders/1.0.0/res/drawable-ldpi/ic_launcher.png"
+        "merged": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/res/merged/ifixit/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/avivlaban/Documents/workspace/iFixitAndroid/App/build/intermediates/exploded-aar/com.marczych.androidsectionheaders/androidsectionheaders/1.0.0/res/drawable-ldpi/ic_launcher.png"
     }
 ]
