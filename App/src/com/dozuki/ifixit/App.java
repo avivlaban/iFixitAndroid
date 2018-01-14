@@ -17,6 +17,7 @@ import android.preference.PreferenceManager;
 import android.support.multidex.MultiDexApplication;
 import android.util.Log;
 
+import com.crashlytics.android.Crashlytics;
 import com.dozuki.ifixit.model.auth.Authenticator;
 import com.dozuki.ifixit.model.dozuki.Site;
 import com.dozuki.ifixit.model.dozuki.SiteChangedEvent;
@@ -43,6 +44,7 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
 
+import io.fabric.sdk.android.Fabric;
 import sdk.insert.io.Insert;
 
 public class App extends MultiDexApplication {
@@ -107,7 +109,7 @@ public class App extends MultiDexApplication {
 
    @Override
    public void onCreate() {
-
+      Fabric.with(this, new Crashlytics());
       Map userAttributes = new HashMap<String, String>();
       userAttributes.put("UserAge", "60");
       userAttributes.put("UserCountry", "Bulgaria");

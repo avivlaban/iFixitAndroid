@@ -170,6 +170,9 @@
         <meta-data android:name="insert_custom_socket_url" android:value="https://websockets.insert-lab.io:8167" />
         <meta-data android:name="insert_custom_analytics_url" android:value="https://data.insert-lab.io:8167" />
         -->
-
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="376bcdf3537a3da3fef14736dbe6b50a308d06ec"
+        />
     </application>
 </manifest>
