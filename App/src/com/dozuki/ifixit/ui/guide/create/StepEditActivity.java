@@ -442,7 +442,10 @@ public class StepEditActivity extends BaseMenuDrawerActivity implements OnClickL
    public boolean onCreateOptionsMenu(Menu menu) {
       getMenuInflater().inflate(R.menu.step_edit_menu, menu);
       MenuItem item = menu.findItem(R.id.publish_guide);
-      View view = MenuItemCompat.getActionView(item);
+      View view;
+      if (item != null) {
+         view = MenuItemCompat.getActionView(item);
+      }
       if (view != null) {
          CompoundButton toggle = (CompoundButton) view.findViewById(R.id.publish_toggle);
          if (toggle != null) {
@@ -477,7 +480,10 @@ public class StepEditActivity extends BaseMenuDrawerActivity implements OnClickL
    public boolean onPrepareOptionsMenu(Menu menu) {
       MenuItem viewGuide = menu.findItem(R.id.view_guide);
       MenuItem visibilityToggle = menu.findItem(R.id.publish_guide);
-      View view = MenuItemCompat.getActionView(visibilityToggle);
+      View view = null;
+      if (visibilityToggle != null) {
+         view = MenuItemCompat.getActionView(visibilityToggle);
+      }
       if (view != null) {
          CompoundButton toggle = (CompoundButton) view.findViewById(R.id.publish_toggle);
          if (toggle != null) {
