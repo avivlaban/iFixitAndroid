@@ -135,12 +135,12 @@ android {
             buildConfigField "String", "SITE_NAME", '"' + site + '"'
             buildConfigField "String", "APP_ID", '"' + getProperty("${site}AppId") + '"'
             buildConfigField "String", "GA_PROPERTY_ID", '"' + getProperty("${site}GAPropertyId") + '"'
-            ext.apiEndpoint=customAPIEndpoint
             ext.schema=pairingSchema
             ext.appKey=appKey
-            ext.socketEndpoint = socketEndpoint
-            ext.analyticsEndpoint = analyticsEndpoint
             ext.companyName = companyName
+            ext.socketEndpoint = socketEndpoint
+            ext.apiEndpoint=customAPIEndpoint
+            ext.analyticsEndpoint = analyticsEndpoint
 
 //            if (site == 'dozuki') {
 //               dependencies {
@@ -188,11 +188,14 @@ android.applicationVariants.all { variant ->
                  'android:value="' + flavor.ext.apiEndpoint + '"') // ignores null
          replaceInManifest(variant,
                  'android:scheme=\"insert-3e4bb00f77f4\"',
-                 'android:scheme="' + flavor.ext.schema + '"') // ignores null
+                 'android:scheme=\"insert-' + flavor.ext.schema + '\"') // ignores null
 
          replaceInManifest(variant,
                  'android:value=\"your app key\"',
-                 'android:value="' + flavor.ext.appKey + '"') // ignores null
+                 'android:value=\"' + flavor.ext.appKey + '\"') // ignores null
+         replaceInManifest(variant,
+                  'android:name=\"bdf6ef59\"',
+                  'android:name="' + flavor.ext.schema + '"')
 
          replaceInManifest(variant,
                  'android:value=\"your custom socket url\"',
