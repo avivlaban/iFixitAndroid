@@ -25,8 +25,8 @@ upload_url=App/build/outputs/apk/
 upload_url+=$custom_apk_name
 curl --user androiduploader:wCxKG3jJjWMpRDggSNgU5dCEDsDaUf --upload-file $upload_url $artifactory_url
 
-message_text="Ifixit host app against "
-message_text+=$API_ENDPOINT
+message_text="Ifixit apk: "
+message_text+=$custom_apk_name
 message_text+=" was uploaded: <"
 message_text+=$artifactory_url
 message_text+=$custom_apk_name
