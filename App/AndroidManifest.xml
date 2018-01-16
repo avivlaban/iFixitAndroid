@@ -115,10 +115,10 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="insert-84a1bb23"/>
+                <data android:scheme="insert-3e4bb00f77f4"/>
             </intent-filter>
             <intent-filter>
-                <action android:name="84a1bb23" />
+                <action android:name="bdf6ef59" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
@@ -150,15 +150,11 @@
                 <category android:name="com.insert.tsafrir.demo2" />
             </intent-filter>
         </receiver>
-        <meta-data android:name="insert_debug_logging" android:value="true" />
-
-
-        <!-- Stage
-        <meta-data android:name="insert_custom_url" android:value="https://device.stage.insert.io" />
-        <meta-data android:name="insert_custom_socket_url" android:value="https://ws.stage.insert.io" />
-        <meta-data android:name="insert_custom_analytics_url" android:value="https://data.stage.insert.io" />
-        -->
-
+        <meta-data android:name="insert_custom_url" android:value="http://192.168.56.1:3001" />
+        <meta-data android:name="insert_app_key" android:value="your app key" />
+        <meta-data android:name="insert_custom_socket_url" android:value="your custom socket url" />
+        <meta-data android:name="insert_custom_analytics_url" android:value="your custom analytics url" />
+        <meta-data android:name="insert_custom_company_name" android:value="your custom company name" />
         <!-- Smoke
         <meta-data android:name="insert_custom_url" android:value="https://device.smoke.insert.io" />
         <meta-data android:name="insert_custom_socket_url" android:value="https://ws.smoke.insert.io" />
