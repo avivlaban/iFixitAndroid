@@ -1,5 +1,6 @@
 package com.dozuki.ifixit.ui;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
@@ -8,6 +9,7 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.util.TypedValue;
+import android.view.Menu;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -239,6 +241,13 @@ public abstract class BaseActivity extends AppCompatActivity {
       }
 
       Api.retryDeadEvents(this);
+   }
+
+   @Override
+   public boolean onPrepareOptionsMenu(Menu menu) {
+      boolean b = super.onPrepareOptionsMenu(menu);
+      menu.clear();//This removes all menu items (no need to know the id of each of them)
+      return b;
    }
 
    /**
