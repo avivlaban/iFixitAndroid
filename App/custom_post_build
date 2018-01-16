@@ -12,7 +12,14 @@ real_name="ifixit-"
 real_name+=$APP_VERSION_NAME
 real_name+="-ifixit-debug.apk"
 
-mv $real_name $custom_apk_name
+relative_path="App/build/outputs/apk/"
+path_to_apk=$relative_path
+path_to_apk+=$real_name
+
+path_to_changed_apk=$relative_path
+path_to_changed_apk+=$custom_apk_name
+
+mv $path_to_apk $path_to_changed_apk
 
 upload_url=App/build/outputs/apk/
 upload_url+=$custom_apk_name
