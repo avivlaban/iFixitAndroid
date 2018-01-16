@@ -116,26 +116,14 @@ public class App extends MultiDexApplication {
       userAttributes.put("AdFree", "true");
 
       //For SDK 48 and lower
-//      Insert.initSDK(
-//              this,
-//              "4197fa0f30535d92776d43af242046cac39e1aeb7e6272c5611f2da344d78d21ddc75c56bfe67300562964e845484f78adfcd6df6f0c4d2311b333283780a914.653c51cbe18d11023fbae2409678a669.c974f305a8cf01840858dd98b5709c5e4236b4999d4a98f9c0a38325284f7222",
-//              "aviv",
-//              null);
-//
-//      Insert.setUserAttributes(userAttributes);
-//      Insert.setUserId("Android User ID");
-
-      //For SDK 49 and above
       Insert.initSDK(
               this,
-              "d8db5b669d4a059a2eeeabc76136bafb216c224474b3e0ef96cf23c51f615273637bcc7103e116a125e7510da8ffd847d8d7c0d1c387bacaa399e4e6bfde92fbe4bf05814183a68f4c233ed2cba312cd.202160b36c02a176a619e80394fb40a0.294030292a30dc7b9077f8596a44a1ef6014d102ddc04883864825e576411e27",
-              "avivlaban",
-              new Insert.InsertInitParams()
-                      .setUserAttributes(userAttributes)
-                      .setVisitorId("*******   VISITOR ID   ******")
-                      .setAccountId("*******   ACCOUNT ID   ******"));
+              "4197fa0f30535d92776d43af242046cac39e1aeb7e6272c5611f2da344d78d21ddc75c56bfe67300562964e845484f78adfcd6df6f0c4d2311b333283780a914.653c51cbe18d11023fbae2409678a669.c974f305a8cf01840858dd98b5709c5e4236b4999d4a98f9c0a38325284f7222",
+              "aviv",
+              null);
 
-
+      Insert.setUserAttributes(userAttributes);
+      Insert.setUserId("Android User ID");
 
 
 
