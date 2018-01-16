@@ -1,13 +1,18 @@
 artifactory_url=http://software.insert.io/artifactory/android-host-app/
 apk_name="ifixit-"
 custom_apk_name=$apk_name
-custom_apk_name=$SDK_VERSION
+custom_apk_name+=$SDK_VERSION
 custom_apk_name+="-"
 custom_apk_name+=$APP_VERSION_NAME
 custom_apk_name+="-"
 custom_apk_name+=$ENVIRONMENT
 custom_apk_name+=".apk"
 
+real_name="ifixit-"
+real_name+=$APP_VERSION_NAME
+real_name+="-ifixit-debug.apk"
+
+mv real_name custom_apk_name
 
 upload_url=App/build/outputs/apk/
 upload_url+=$custom_apk_name
