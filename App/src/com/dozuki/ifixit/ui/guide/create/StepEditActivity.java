@@ -442,7 +442,7 @@ public class StepEditActivity extends BaseMenuDrawerActivity implements OnClickL
    public boolean onCreateOptionsMenu(Menu menu) {
       getMenuInflater().inflate(R.menu.step_edit_menu, menu);
       MenuItem item = menu.findItem(R.id.publish_guide);
-      View view;
+      View view = null;
       if (item != null) {
          view = MenuItemCompat.getActionView(item);
       }
