@@ -6,6 +6,7 @@ import android.content.ContentResolver;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
+import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.res.Configuration;
@@ -14,6 +15,7 @@ import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.os.StrictMode;
 import android.preference.PreferenceManager;
+import android.support.annotation.NonNull;
 import android.support.multidex.MultiDexApplication;
 import android.util.Log;
 
@@ -128,12 +130,12 @@ public class App extends MultiDexApplication {
       //For SDK 49 and above
       Insert.initSDK(
               this,
-              "d8db5b669d4a059a2eeeabc76136bafb216c224474b3e0ef96cf23c51f615273637bcc7103e116a125e7510da8ffd847d8d7c0d1c387bacaa399e4e6bfde92fbe4bf05814183a68f4c233ed2cba312cd.202160b36c02a176a619e80394fb40a0.294030292a30dc7b9077f8596a44a1ef6014d102ddc04883864825e576411e27",
-              "avivlaban",
+              getAppKey(this),
+              getCompanyName(this),
               new Insert.InsertInitParams()
                       .setUserAttributes(userAttributes)
-                      .setVisitorId("*******   VISITOR ID   ******")
-                      .setAccountId("*******   ACCOUNT ID   ******"));
+                      .setVisitorId("automation-visitor")
+                      .setAccountId("automation-account"));
 
 
 
@@ -180,6 +182,41 @@ public class App extends MultiDexApplication {
 
       sApp = this;
       setSite(getDefaultSite());
+   }
+
+   public static String getAppKey(@NonNull Context context) {
+      String packageName = context.getPackageName();
+      ApplicationInfo ai;
+      try {
+         ai = context.getPackageManager().getApplicationInfo(packageName, PackageManager.GET_META_DATA);
+
+         Bundle bundle = ai.metaData;
+         if (bundle != null) {
+            return bundle.getString("insert_app_key");
+         }
+      } catch (PackageManager.NameNotFoundException e) {
+         Log.e(e.toString(), e.getMessage());
+      }
+
+      return null;
+   }
+
+   public static String getCompanyName(@NonNull Context context) {
+      String packageName = context.getPackageName();
+      ApplicationInfo ai;
+      try {
+         ai = context.getPackageManager().getApplicationInfo(packageName, PackageManager.GET_META_DATA);
+
+         Bundle bundle = ai.metaData;
+         if (bundle != null) {
+            String companyName = bundle.getString("insert_custom_company_name");
+            return companyName;
+         }
+      } catch (PackageManager.NameNotFoundException e) {
+         Log.e(e.toString(), e.getMessage());
+      }
+
+      return null;
    }
 
    public static void sendEvent(String category, String action, String label, Long value) {

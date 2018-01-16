@@ -28,7 +28,7 @@ repositories {
       url "https://oss.sonatype.org/content/repositories/snapshots"
    }
    maven {
-      url "http://software.insert.io/artifactory/android-release"
+      url "http://software.insert.io/artifactory/libs-snapshot-local"
       credentials {
          username artifactoryUsername
          password artifactoryPassword
@@ -60,7 +60,7 @@ dependencies {
    compile "com.f2prateek.progressbutton:progressbutton:2.1.0@aar"
    compile "com.google.android.gms:play-services-identity:9.2.1"
    compile "com.google.android.gms:play-services-plus:9.2.1"
-   compile group: 'sdk.insert.io', name: 'insertIO', version: '1.49.49.2221', changing: true
+   compile group: 'sdk.insert.io', name: 'insertIO', version: '999.999+', changing: true
    compile 'com.android.support:multidex:1.0.0'
    compile 'com.google.android.gms:play-services-gcm:9.2.1'
    compile('com.crashlytics.sdk.android:crashlytics:2.8.0@aar') {
@@ -188,11 +188,15 @@ android.applicationVariants.all { variant ->
                  'android:value="' + flavor.ext.apiEndpoint + '"') // ignores null
          replaceInManifest(variant,
                  'android:scheme=\"insert-3e4bb00f77f4\"',
-                 'android:scheme="' + flavor.ext.schema + '"') // ignores null
+                 'android:scheme=\"insert-' + flavor.ext.schema + '\"') // ignores null
 
          replaceInManifest(variant,
                  'android:value=\"your app key\"',
-                 'android:value="' + flavor.ext.appKey + '"') // ignores null
+                 'android:value=\"' + flavor.ext.appKey + '\"') // ignores null
+
+         replaceInManifest(variant,
+                 'android:name=\"bdf6ef59\"',
+                 'android:name="' + flavor.ext.schema + '"')
 
          replaceInManifest(variant,
                  'android:value=\"your custom socket url\"',
