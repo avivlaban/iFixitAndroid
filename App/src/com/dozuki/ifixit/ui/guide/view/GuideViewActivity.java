@@ -214,8 +214,10 @@ public class GuideViewActivity extends BaseMenuDrawerActivity implements
       MenuItem favoriteGuide = menu.findItem(R.id.favorite_guide);
       MenuItem reloadGuide = menu.findItem(R.id.reload_guide);
       MenuItem editGuide = menu.findItem(R.id.edit_guide);
-
-      TextView countView = ((TextView)MenuItemCompat.getActionView(comments));
+      TextView countView = null;
+      if (comments != null) {
+         countView = ((TextView) MenuItemCompat.getActionView(comments));
+      }
       if (countView != null) {
          countView.findViewById(R.id.comment_count);
       }
@@ -236,7 +238,8 @@ public class GuideViewActivity extends BaseMenuDrawerActivity implements
       }
 
       boolean favorited = mGuide != null && mGuide.isFavorited();
-      favoriteGuide.setIcon(favorited ? R.drawable.ic_action_favorite_filled :
+      if (favoriteGuide != null) {
+         favoriteGuide.setIcon(favorited ? R.drawable.ic_action_favorite_filled :
        R.drawable.ic_action_favorite_empty);
       favoriteGuide.setEnabled(!mFavoriting && mGuide != null);
       favoriteGuide.setTitle(favorited ? R.string.unfavorite_guide : R.string.favorite_guide);
@@ -249,7 +252,7 @@ public class GuideViewActivity extends BaseMenuDrawerActivity implements
          editGuide.setVisible(false);
          favoriteGuide.setVisible(false);
       }
-
+      }
       return super.onPrepareOptionsMenu(menu);
    }
 
