@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/avivlaban/Documents/workspace/iFixitAndroid/App/src/main/jniLibs"/></dataSet><dataSet config="ifixit"><source path="/Users/avivlaban/Documents/workspace/iFixitAndroid/App/src/ifixit/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/avivlaban/Documents/workspace/iFixitAndroid/App/src/debug/jniLibs"/></dataSet><dataSet config="ifixitDebug"><source path="/Users/avivlaban/Documents/workspace/iFixitAndroid/App/src/ifixitDebug/jniLibs"/></dataSet></merger>
